@@ -1,0 +1,829 @@
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
+amitshekhariitbhu,amitshekhariitbhu/amitshekhariitbhu,2022-08-22T09:33:29Z,1,1,,True,True,
+amitshekhariitbhu,amitshekhariitbhu/android-blogs,2017-05-29T07:57:01Z,19,19,,True,False,
+amitshekhariitbhu,amitshekhariitbhu/Android-Debug-Database,2016-11-16T14:20:24Z,8401,8401,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/android-dev-sources,2017-03-20T14:45:17Z,14,14,,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/android-developer-roadmap,2019-07-28T19:16:36Z,2783,2783,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/Android-HotFix,2016-09-29T18:19:47Z,24,24,Java,True,True,
+amitshekhariitbhu,amitshekhariitbhu/android-interview-questions,2017-07-09T18:47:24Z,11359,11359,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/android-mvp-basic-sample,2017-08-24T16:38:38Z,149,149,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/Android-MVP-Sample-Application,2017-01-13T11:04:00Z,260,260,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/android-online-course,2019-07-31T11:28:56Z,22,22,,True,True,
+amitshekhariitbhu,amitshekhariitbhu/android-open-project,2016-07-01T02:26:47Z,9,9,,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/Android-Shimmer-Example,2020-03-09T16:06:31Z,61,61,Kotlin,True,True,
+amitshekhariitbhu,amitshekhariitbhu/Android-TensorFlow-Lite-Example,2018-03-17T04:07:35Z,752,752,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/AndroidTensorFlowMachineLearningExample,2017-03-06T04:34:38Z,1435,1435,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/AndroidTensorFlowMNISTExample,2017-03-16T15:16:30Z,464,464,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/angular.js,2016-02-14T04:19:35Z,1,1,JavaScript,True,True,MIT License
+amitshekhariitbhu,amitshekhariitbhu/AppLock,2015-04-27T16:54:48Z,40,40,Java,True,True,
+amitshekhariitbhu,amitshekhariitbhu/awesome,2016-06-16T07:58:47Z,13,13,,True,False,
+amitshekhariitbhu,amitshekhariitbhu/awesome-android,2016-06-02T09:03:33Z,17,17,,True,True,Creative Commons Zero v1.0 Universal
+amitshekhariitbhu,amitshekhariitbhu/awesome-android-1,2016-06-03T03:32:38Z,62,62,,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/awesome-android-complete-reference,2016-06-15T02:13:26Z,2836,2836,Java,True,True,
+amitshekhariitbhu,amitshekhariitbhu/awesome-android-libraries,2016-06-03T09:39:46Z,16,16,,True,True,
+amitshekhariitbhu,amitshekhariitbhu/awesome-android-things,2016-12-16T13:42:28Z,962,962,Java,True,True,
+amitshekhariitbhu,amitshekhariitbhu/awesome-tensorflow,2017-03-16T03:30:58Z,6,6,,True,True,Creative Commons Zero v1.0 Universal
+amitshekhariitbhu,amitshekhariitbhu/best-android-tutorials,2019-08-02T07:15:20Z,156,156,,True,True,
+amitshekhariitbhu,amitshekhariitbhu/fantastic-ios-architecture,2017-02-20T05:49:57Z,10,10,,True,True,MIT License
+amitshekhariitbhu,amitshekhariitbhu/Fast-Android-Networking,2016-03-21T18:35:44Z,5697,5697,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/FlatBuffer,2016-04-17T07:08:52Z,616,616,Java,True,True,Apache License 2.0
+amitshekhariitbhu,amitshekhariitbhu/Floatingview,2016-05-12T13:45:51Z,8,8,Java,True,True,
+amitshekhariitbhu,amitshekhariitbhu/fresco,2015-05-19T15:14:58Z,1,1,Java,True,True,Other
+shradha-khapra,shradha-khapra/Admin_Form,2018-11-09T09:10:21Z,9,9,PHP,True,True,
+shradha-khapra,shradha-khapra/ApnaCollege-Alpha,2022-09-26T07:08:43Z,423,423,Java,True,True,
+shradha-khapra,shradha-khapra/ApnaCollege-Java,2021-12-11T12:45:57Z,204,204,Java,True,True,
+shradha-khapra,shradha-khapra/Apni-Kaksha-Demo-Tasks,2021-04-17T07:26:17Z,17,17,,True,True,
+shradha-khapra,shradha-khapra/BasicProjects,2018-09-07T18:05:33Z,82,82,HTML,True,True,
+shradha-khapra,shradha-khapra/GoogleMaps,2018-09-07T17:19:54Z,44,44,JavaScript,True,True,
+shradha-khapra,shradha-khapra/HealthPortal,2019-08-16T18:00:09Z,34,34,HTML,True,True,
+shradha-khapra,shradha-khapra/in-sps-20-team-93,2020-09-02T16:08:16Z,19,19,,True,True,Apache License 2.0
+shradha-khapra,shradha-khapra/JavaScriptSeries,2023-12-06T14:45:39Z,246,246,JavaScript,True,True,
+shradha-khapra,shradha-khapra/MachineLearning,2019-11-14T12:18:44Z,78,78,Python,True,True,
+shradha-khapra,shradha-khapra/Online-Library-System,2018-07-19T13:24:56Z,26,26,Handlebars,True,True,
+shradha-khapra,shradha-khapra/software-product-sprint-2020,2020-07-05T13:50:28Z,22,22,Java,True,True,Apache License 2.0
+shradha-khapra,shradha-khapra/TwitterBotDetection,2020-04-12T13:22:54Z,20,20,Jupyter Notebook,True,True,
+shradha-khapra,shradha-khapra/Web_Development_Lectures,2018-07-19T13:40:27Z,69,69,HTML,True,True,
+loveBabbar,loveBabbar/aws_cicd_pipline_codedeploy,2024-07-20T17:26:42Z,7,7,HTML,True,True,
+loveBabbar,loveBabbar/CodeHelp-DSA-Busted-Series,2021-12-08T19:23:15Z,3355,3355,C++,True,True,
+loveBabbar,loveBabbar/CodehelpYTWebDev,2023-07-01T21:55:01Z,206,206,HTML,True,True,
+loveBabbar,loveBabbar/hello-world,2017-06-22T08:39:13Z,4,4,,True,True,
+loveBabbar,loveBabbar/make-a-pull-request,2020-03-28T14:59:13Z,13,13,,True,True,
+loveBabbar,loveBabbar/mapfirst,2018-05-31T19:08:42Z,7,7,Java,True,True,
+loveBabbar,loveBabbar/Material_Design_Dummy,2018-05-28T18:41:38Z,5,5,Java,True,True,
+loveBabbar,loveBabbar/Miwok,2018-05-19T18:08:36Z,8,8,Java,True,True,Other
+loveBabbar,loveBabbar/myrepo,2022-12-22T22:38:52Z,7,7,,True,True,
+loveBabbar,loveBabbar/PasteApp,2024-10-20T12:07:04Z,1,1,JavaScript,True,True,
+loveBabbar,loveBabbar/ProgressTracker,2018-05-31T03:53:39Z,14,14,Java,True,True,
+loveBabbar,loveBabbar/SecureMessenger,2018-05-28T11:14:41Z,46,46,Java,True,True,
+loveBabbar,loveBabbar/URL-Shortener,2020-03-28T15:15:33Z,56,56,JavaScript,True,True,MIT License
+loveBabbar,loveBabbar/YoutubeStats,2018-05-27T22:21:31Z,17,17,Java,True,True,
+Nakshatra05,Nakshatra05/Alpha-Challenge,2024-09-16T00:57:29Z,2,2,,True,False,
+Nakshatra05,Nakshatra05/Arbitrum-EcoSaver,2024-06-24T21:41:09Z,1,1,JavaScript,True,True,
+Nakshatra05,Nakshatra05/E-Commerce-App,2023-09-06T07:15:15Z,18,18,JavaScript,True,True,
+Nakshatra05,Nakshatra05/Filmyverse,2023-10-12T13:24:10Z,14,14,JavaScript,True,True,
+Nakshatra05,Nakshatra05/Grovers-Algorithm,2024-06-20T17:01:27Z,1,1,Python,True,True,
+Nakshatra05,Nakshatra05/Hamster-Kombat,2024-07-02T09:25:37Z,3,3,TypeScript,True,True,
+Nakshatra05,Nakshatra05/Intro-to-Web3,2024-09-19T19:07:04Z,13,13,,True,True,
+Nakshatra05,Nakshatra05/Nakshatra05,2023-10-02T06:38:02Z,17,17,,True,False,
+Nakshatra05,Nakshatra05/Notcoin-Telegram-Mini-App-Clone,2024-09-21T10:23:47Z,1,1,TypeScript,True,True,
+Nakshatra05,Nakshatra05/Quantum-Embedding-Kernels,2024-06-20T17:00:26Z,1,1,Python,True,True,
+Nakshatra05,Nakshatra05/Quizzify_Stellar,2024-07-09T03:33:24Z,2,2,JavaScript,True,True,
+Nakshatra05,Nakshatra05/SecureFi,2023-09-20T11:05:55Z,31,31,Rust,True,True,MIT License
+Nakshatra05,Nakshatra05/SorobanChunaav,2024-05-18T12:37:28Z,1,1,JavaScript,True,True,
+Nakshatra05,Nakshatra05/StellarLingo,2024-06-29T19:17:18Z,5,5,JavaScript,True,True,
+Nakshatra05,Nakshatra05/TONLingo,2024-06-08T11:52:39Z,4,4,TypeScript,True,True,
+Nakshatra05,Nakshatra05/TONLingoBOT,2024-07-02T17:41:56Z,1,1,TypeScript,True,True,
+Nakshatra05,Nakshatra05/Uniswap-Token-Marketplace,2024-06-23T13:06:05Z,1,1,JavaScript,True,True,
+Nakshatra05,Nakshatra05/Web3-Fundraiser,2023-10-12T13:35:43Z,6,6,JavaScript,True,True,
+Nakshatra05,Nakshatra05/Web3-PayPal,2023-10-12T18:39:25Z,16,16,JavaScript,True,True,
+Nakshatra05,Nakshatra05/Web3-Twitter,2024-06-20T17:13:33Z,1,1,TypeScript,True,True,
+Nakshatra05,Nakshatra05/Whizzify,2024-07-14T05:21:45Z,1,1,EJS,True,True,
+Nakshatra05,Nakshatra05/Whizzify_Edu_Chain,2024-08-30T17:04:47Z,1,1,EJS,True,True,
+Nakshatra05,Nakshatra05/Whizzify_Eth,2024-09-08T14:05:28Z,1,1,EJS,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/AarogyaSetu_Android,2020-05-27T05:17:55Z,11,11,,True,True,Other
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/android-PictureInPicture,2019-07-01T06:40:49Z,10,10,Java,True,True,Apache License 2.0
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/AndroidUIExtentions,2020-02-13T06:23:52Z,9,9,,True,True,MIT License
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Birthday-Wishing,2020-09-09T18:04:20Z,56,56,Kotlin,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/CircularProgressBar,2020-03-23T18:26:27Z,13,13,Kotlin,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Collections-Framework,2021-06-11T07:41:15Z,144,144,Java,True,True,Apache License 2.0
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/cs-currency-converter,2024-02-18T15:44:54Z,3,3,JavaScript,True,True,Apache License 2.0
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Dad-Jokes-Chrome-Extension,2021-09-26T18:33:18Z,41,41,HTML,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Data_Structures,2017-10-03T12:06:37Z,21,21,Java,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/DS-Algo,2020-02-15T20:36:00Z,510,510,Java,True,True,Apache License 2.0
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/EthereumVoting,2018-12-14T12:55:39Z,53,53,JavaScript,True,True,MIT License
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/ExoPlayer2,2017-06-10T09:09:16Z,21,21,Java,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Face-Recognition,2018-06-14T19:37:09Z,35,35,Python,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Firebook,2017-03-15T17:20:56Z,35,35,Java,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/First-Contribution,2021-05-30T21:27:34Z,32,32,,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/GitLearningRepo,2020-01-15T18:12:12Z,10,10,Python,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Java-DSA,2022-06-01T12:11:14Z,243,243,Java,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Kaarbizz,2018-08-31T16:27:10Z,18,18,Java,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Lets-Learn-Git,2021-05-30T21:03:21Z,4,4,Java,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Manage_iT,2017-05-12T14:38:20Z,73,73,Java,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Meme-Share,2020-09-20T11:46:28Z,34,34,Kotlin,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/NewsApp,2020-10-24T17:39:54Z,41,41,Kotlin,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/NSIT-Connect,2017-02-25T21:03:33Z,15,15,Java,True,True,MIT License
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/PulsatingButtonAndroidLibrary,2020-02-05T07:33:41Z,9,9,,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/PythonTuts,2020-01-14T19:21:23Z,10,10,Python,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/python_in_one_video,2021-10-16T06:28:49Z,13,13,Python,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/RedditData,2017-05-31T18:25:26Z,10,10,HTML,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/resume,2022-09-20T11:01:20Z,4,4,HTML,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Rubiks_cube_Solver,2017-05-12T14:11:16Z,30,30,Java,True,True,
+Anuj-Kumar-Sharma,Anuj-Kumar-Sharma/Shuffler,2017-06-16T20:59:37Z,334,334,Java,True,True,
+Ignitetechnologies,Ignitetechnologies/Android-Penetration-Testing,2021-02-04T11:05:09Z,327,327,,True,True,
+Ignitetechnologies,Ignitetechnologies/bugbounty,2021-02-13T18:51:31Z,428,428,,True,True,
+Ignitetechnologies,Ignitetechnologies/BurpSuite-For-Pentester,2020-11-07T18:37:53Z,2227,2227,,True,True,
+Ignitetechnologies,Ignitetechnologies/cheatsheets,2024-08-22T18:05:30Z,14,14,,True,False,
+Ignitetechnologies,Ignitetechnologies/Command-Control,2019-10-06T14:52:22Z,73,73,,True,True,
+Ignitetechnologies,Ignitetechnologies/Credential-Dumping,2020-04-25T15:09:43Z,460,460,,True,True,
+Ignitetechnologies,Ignitetechnologies/CTF-Difficulty,2019-08-23T13:59:58Z,750,750,,True,True,
+Ignitetechnologies,Ignitetechnologies/HackTheBox-CTF-Writeups,2019-09-02T09:26:10Z,1532,1532,,True,True,
+Ignitetechnologies,Ignitetechnologies/Linux-Privilege-Escalation,2020-05-24T16:21:27Z,768,768,,True,True,
+Ignitetechnologies,Ignitetechnologies/Mindmap,2023-01-22T09:45:22Z,7043,7043,,True,True,
+Ignitetechnologies,Ignitetechnologies/MSSQL-Pentest-Cheatsheet,2021-09-15T17:46:36Z,206,206,,True,True,
+Ignitetechnologies,Ignitetechnologies/myfiles,2022-05-02T07:04:09Z,14,14,,True,True,
+Ignitetechnologies,Ignitetechnologies/Nmap-For-Pentester,2021-02-12T12:05:57Z,658,658,,True,True,
+Ignitetechnologies,Ignitetechnologies/OSCP_Tools,2024-08-22T18:00:16Z,4,4,,True,True,
+Ignitetechnologies,Ignitetechnologies/PayloadsAllTheThings,2021-03-30T17:41:37Z,40,40,,True,False,MIT License
+Ignitetechnologies,Ignitetechnologies/Persistence-Accessibility-Features,2020-05-18T05:59:23Z,29,29,PowerShell,True,True,
+Ignitetechnologies,Ignitetechnologies/precompiled-binaries,2024-08-22T17:17:19Z,2,2,,True,True,
+Ignitetechnologies,Ignitetechnologies/Privilege-Escalation,2019-08-23T06:51:28Z,3283,3283,,True,True,
+Ignitetechnologies,Ignitetechnologies/TryHackMe-CTF-Writeups,2021-05-21T16:02:25Z,190,190,,True,True,
+Ignitetechnologies,Ignitetechnologies/view2akill,2020-02-01T14:01:27Z,24,24,Python,True,True,
+Ignitetechnologies,Ignitetechnologies/Vulnhub-CTF-Writeups,2019-09-02T07:52:59Z,1060,1060,,True,True,
+Ignitetechnologies,Ignitetechnologies/Web-Application-Cheatsheet,2019-08-31T09:37:27Z,428,428,,True,True,
+Ignitetechnologies,Ignitetechnologies/Windows-Privilege-Escalation,2021-11-27T13:11:30Z,328,328,,True,True,
+Ignitetechnologies,Ignitetechnologies/Windows-Privilege-Escalation-SeImpersontatePrivilege,2021-08-04T08:34:07Z,26,26,,True,True,
+Ignitetechnologies,Ignitetechnologies/Wireless-Penetration-Testing,2021-07-30T20:38:11Z,124,124,,True,True,
+developerrahulofficial,developerrahulofficial/Admin-Dashboard-Ui,2024-09-10T11:37:30Z,0,0,TypeScript,True,True,MIT License
+developerrahulofficial,developerrahulofficial/Advice-generator-app,2023-09-11T09:35:19Z,13,13,CSS,True,True,
+developerrahulofficial,developerrahulofficial/Age-calculator,2023-08-08T06:39:56Z,13,13,JavaScript,True,True,
+developerrahulofficial,developerrahulofficial/AI-Enabled-Chrome-Startup-Page,2023-05-01T07:11:13Z,22,22,,True,True,
+developerrahulofficial,developerrahulofficial/AI-Girlfriend,2023-08-24T12:48:09Z,46,46,Python,True,False,MIT License
+developerrahulofficial,developerrahulofficial/Ai-mini-image-generator,2024-08-05T11:17:54Z,2,2,TypeScript,True,True,
+developerrahulofficial,developerrahulofficial/amazon-clone,2023-11-26T12:51:20Z,16,16,JavaScript,True,True,
+developerrahulofficial,developerrahulofficial/amazon-clone-deployment,2023-12-23T06:59:41Z,5,5,JavaScript,True,True,
+developerrahulofficial,developerrahulofficial/anime-notifier,2023-09-27T12:06:24Z,10,10,Python,True,True,
+developerrahulofficial,developerrahulofficial/Body-Mass-Index-Calculator,2023-08-12T10:35:32Z,11,11,CSS,True,True,
+developerrahulofficial,developerrahulofficial/Bounce-Nokia-Clone,2023-10-14T08:18:24Z,24,24,JavaScript,True,True,
+developerrahulofficial,developerrahulofficial/BrainWave-Ui,2024-09-09T09:55:42Z,0,0,JavaScript,True,True,
+developerrahulofficial,developerrahulofficial/calling-jadoo,2023-10-17T10:58:16Z,14,14,CSS,True,True,
+developerrahulofficial,developerrahulofficial/Chrome-Home-Redesigned,2023-05-11T05:13:16Z,14,14,CSS,True,True,
+developerrahulofficial,developerrahulofficial/ClearSky,2024-04-02T11:02:09Z,10,10,Python,True,True,"BSD 2-Clause ""Simplified"" License"
+developerrahulofficial,developerrahulofficial/cool-terminal,2023-06-13T08:38:45Z,20,20,,True,True,
+developerrahulofficial,developerrahulofficial/crush-diary,2024-03-22T11:07:40Z,9,9,Vue,True,True,
+developerrahulofficial,developerrahulofficial/Crush-Motion-Detector,2023-11-06T04:46:43Z,15,15,Python,True,True,
+developerrahulofficial,developerrahulofficial/Cut-Effect,2023-02-12T04:47:44Z,4,4,JavaScript,True,True,
+developerrahulofficial,developerrahulofficial/daily-tracker,2024-06-23T13:56:03Z,0,0,TypeScript,True,True,
+developerrahulofficial,developerrahulofficial/Dark-Bee,2022-05-29T05:51:19Z,2,2,,True,False,
+developerrahulofficial,developerrahulofficial/Developer-Rahul-University-ui,2024-09-10T11:13:00Z,0,0,HTML,True,True,
+developerrahulofficial,developerrahulofficial/dictionary-app,2023-08-17T11:38:56Z,87,87,JavaScript,True,False,MIT License
+developerrahulofficial,developerrahulofficial/dino-game-reacreated,2023-10-25T10:11:54Z,24,24,JavaScript,True,True,
+developerrahulofficial,developerrahulofficial/django,2022-10-10T08:13:27Z,3,3,,True,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+developerrahulofficial,developerrahulofficial/Du-all-college-websites,2021-04-28T05:31:44Z,5,5,Python,True,True,
+developerrahulofficial,developerrahulofficial/DuaCrush,2023-05-17T09:37:28Z,14,14,HTML,True,True,
+developerrahulofficial,developerrahulofficial/english-first-ui-challenge,2023-09-16T16:27:26Z,5,5,HTML,True,True,
+developerrahulofficial,developerrahulofficial/final-react-class-project,2023-10-01T06:27:27Z,9,9,JavaScript,True,True,
+developerrahulofficial,developerrahulofficial/First-Ui-Challenge,2023-09-09T08:20:36Z,6,6,HTML,True,True,
+janishar,janishar/android-dagger2-example,2016-12-24T20:02:05Z,455,455,Java,True,True,
+janishar,janishar/Android-Debug-Database,2016-12-18T19:11:58Z,3,3,Java,True,True,Apache License 2.0
+janishar,janishar/android-kotlin-mvp-architecture,2017-12-24T12:00:04Z,700,700,Kotlin,True,True,Apache License 2.0
+janishar,janishar/android-mvp-architecture,2017-01-27T08:39:06Z,4438,4438,Java,True,True,Apache License 2.0
+janishar,janishar/android-mvp-interactor-architecture,2017-07-20T15:57:02Z,404,404,Java,True,True,Apache License 2.0
+janishar,janishar/android-mvvm-architecture,2017-07-07T08:34:07Z,2957,2957,Java,True,True,Apache License 2.0
+janishar,janishar/android-times-square,2018-04-17T08:26:40Z,1,1,Java,True,False,Apache License 2.0
+janishar,janishar/android_device_samsung_k3gxx,2017-12-11T15:50:12Z,0,0,C,True,False,
+janishar,janishar/annotation-processing-example,2018-05-22T18:33:46Z,138,138,Java,True,True,Apache License 2.0
+janishar,janishar/api,2019-11-11T10:49:59Z,0,0,,True,False,GNU General Public License v3.0
+janishar,janishar/arduino-ide,2021-03-11T06:42:36Z,1,1,,True,True,GNU Affero General Public License v3.0
+janishar,janishar/blockly,2020-06-06T08:13:13Z,1,1,JavaScript,True,True,Apache License 2.0
+janishar,janishar/brython,2022-04-05T07:52:16Z,2,2,,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+janishar,janishar/ButterKnifeLite,2016-08-16T18:18:42Z,20,20,Java,True,True,Apache License 2.0
+janishar,janishar/CodeMirror,2021-01-09T06:03:37Z,1,1,JavaScript,True,False,MIT License
+janishar,janishar/codemirror.next,2021-08-06T05:03:11Z,1,1,JavaScript,True,False,Other
+janishar,janishar/cpp-course-for-beginners,2019-04-25T19:10:56Z,4,4,C++,True,True,
+janishar,janishar/data-analytics-project-template,2022-12-25T13:45:30Z,77,77,Jupyter Notebook,True,True,Apache License 2.0
+janishar,janishar/ds-algo,2024-07-09T18:01:26Z,0,0,,True,True,
+janishar,janishar/EaselJS,2020-11-03T11:35:03Z,0,0,,True,True,MIT License
+janishar,janishar/examples,2017-01-19T20:46:00Z,4,4,Java,True,True,
+janishar,janishar/Exploring-Arduino-2nd-Edition,2021-03-09T14:58:18Z,1,1,,True,True,MIT License
+janishar,janishar/from-java-to-kotlin,2018-05-22T17:58:26Z,17,17,Java,True,True,Apache License 2.0
+janishar,janishar/graph-library,2017-10-31T14:56:11Z,15,15,Java,True,True,
+janishar,janishar/grommet,2017-04-30T20:13:11Z,1,1,JavaScript,True,True,Apache License 2.0
+janishar,janishar/handson-ml2,2021-06-05T20:44:55Z,4,4,Jupyter Notebook,True,True,Apache License 2.0
+janishar,janishar/janishar,2022-12-10T14:54:18Z,1,1,,True,True,
+janishar,janishar/janishar.github.io,2016-08-16T12:25:31Z,3,3,,True,True,
+janishar,janishar/JPost,2016-09-21T17:22:09Z,117,117,Java,True,True,Apache License 2.0
+janishar,janishar/js-playground,2020-02-26T10:14:49Z,0,0,JavaScript,True,True,
+shivaylamba,shivaylamba/.github,2023-01-23T13:50:38Z,0,0,,True,True,
+shivaylamba,shivaylamba/2019-conferences,2019-11-27T18:24:07Z,0,0,,True,True,
+shivaylamba,shivaylamba/AarogyaSetu_Android,2020-05-26T19:02:57Z,0,0,Java,True,True,Other
+shivaylamba,shivaylamba/ai-frontend-workshop,2024-06-06T05:34:49Z,2,2,TypeScript,True,True,
+shivaylamba,shivaylamba/ai-inferencing-spin-wasm,2024-07-25T08:22:49Z,0,0,PowerShell,True,True,Apache License 2.0
+shivaylamba,shivaylamba/AIDENANALYSIS--TFJS-Physiotherapist,2018-09-05T18:19:04Z,22,22,JavaScript,True,True,
+shivaylamba,shivaylamba/ai_dev-workshop,2024-06-20T10:12:19Z,0,0,Dockerfile,True,True,
+shivaylamba,shivaylamba/ALBERT,2019-12-12T22:20:22Z,0,0,Python,True,True,
+shivaylamba,shivaylamba/algolia-migration-guide,2021-06-05T12:38:11Z,0,0,JavaScript,True,True,
+shivaylamba,shivaylamba/Algorithms,2019-09-30T19:02:39Z,0,0,C++,True,True,
+shivaylamba,shivaylamba/alibaba.github.com,2020-01-02T18:34:44Z,0,0,,True,True,
+shivaylamba,shivaylamba/amp-e-commerce,2019-05-04T22:48:25Z,0,0,HTML,True,True,Apache License 2.0
+shivaylamba,shivaylamba/Android-Challenge,2020-09-30T17:53:10Z,0,0,Kotlin,True,True,
+shivaylamba,shivaylamba/appwrite,2020-10-07T08:07:22Z,0,0,,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+shivaylamba,shivaylamba/Arcoxia,2019-01-01T17:16:10Z,0,0,,True,True,
+shivaylamba,shivaylamba/Arcoxia-1,2019-01-01T17:24:23Z,0,0,,True,True,
+shivaylamba,shivaylamba/arduino-esp32,2020-01-23T18:12:57Z,0,0,,True,True,GNU Lesser General Public License v2.1
+shivaylamba,shivaylamba/ARound_HackMIT,2019-09-15T14:00:29Z,0,0,Java,True,True,
+shivaylamba,shivaylamba/asylo-site,2019-05-04T21:36:53Z,0,0,HTML,True,True,Apache License 2.0
+shivaylamba,shivaylamba/attendance-system,2019-02-16T20:12:49Z,0,0,HTML,True,True,
+shivaylamba,shivaylamba/awesome-computer-science-opportunities,2019-05-09T10:28:01Z,0,0,,True,True,MIT License
+shivaylamba,shivaylamba/badge-magic-android,2019-09-03T19:52:10Z,0,0,,True,False,Apache License 2.0
+shivaylamba,shivaylamba/badgeyay,2019-09-03T19:53:01Z,0,0,,True,False,GNU General Public License v3.0
+shivaylamba,shivaylamba/batch-1-photos,2020-12-11T14:20:52Z,0,0,,True,True,
+shivaylamba,shivaylamba/BatteryLife-1,2019-10-20T06:09:37Z,0,0,Python,True,True,
+shivaylamba,shivaylamba/blog,2020-01-16T17:38:31Z,0,0,,True,True,
+shivaylamba,shivaylamba/Bluemarble-ChatApp,2019-12-07T16:26:57Z,0,0,CSS,True,True,MIT License
+shivaylamba,shivaylamba/BoilerPlateExtension,2020-11-27T18:21:39Z,0,0,JavaScript,True,True,
+shivaylamba,shivaylamba/bpmn-js,2020-10-01T09:46:10Z,0,0,JavaScript,True,False,Other
+shivaylamba,shivaylamba/C-practice,2017-08-23T08:25:21Z,0,0,C++,True,True,
+naman14,naman14/Accord,2020-10-07T08:46:17Z,11,11,Kotlin,True,True,
+naman14,naman14/adb-tools-mac,2021-03-11T18:53:43Z,962,962,Swift,True,True,
+naman14,naman14/AdbToolsElectron,2015-10-31T18:48:15Z,1,1,CSS,True,True,
+naman14,naman14/AlgorithmVisualizer-Android,2016-06-02T11:11:55Z,1131,1131,Java,True,True,
+naman14,naman14/android-client,2017-04-06T01:44:39Z,0,0,Java,True,True,Mozilla Public License 2.0
+naman14,naman14/app-theme-engine,2016-01-01T12:34:28Z,22,22,Java,True,True,Apache License 2.0
+naman14,naman14/Applications,2016-04-09T05:51:52Z,0,0,JavaScript,True,True,
+naman14,naman14/Arcade,2016-05-07T14:53:32Z,104,104,Lua,True,True,
+naman14,naman14/arcade-watchface,2015-10-29T13:32:32Z,0,0,Java,True,True,Do What The F*ck You Want To Public License
+naman14,naman14/ARGO,2023-09-23T21:10:47Z,0,0,,True,True,
+naman14,naman14/Armageddon-2014,2014-10-07T09:00:30Z,5,5,Java,True,True,
+naman14,naman14/BlockSlide,2023-07-16T17:48:31Z,0,0,Cadence,True,True,
+naman14,naman14/blog.naman-dwivedi.in,2016-02-19T07:46:19Z,0,0,HTML,True,True,
+naman14,naman14/BuildmLearn-Toolkit-Android,2016-03-11T07:11:44Z,0,0,Java,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+naman14,naman14/CacheWebView,2022-11-15T04:31:01Z,0,0,Java,True,True,MIT License
+naman14,naman14/CB_UI2,2017-05-01T05:44:41Z,0,0,Java,True,True,
+naman14,naman14/CB_UITest,2016-10-15T05:45:09Z,0,0,Java,True,True,
+naman14,naman14/CodingBlocks_CustomViews,2016-07-24T05:16:45Z,1,1,Java,True,True,
+naman14,naman14/CountryCodePicker,2020-03-13T13:35:04Z,0,0,Java,True,True,Apache License 2.0
+naman14,naman14/csgolive,2017-02-24T06:16:13Z,19,19,JavaScript,True,True,
+naman14,naman14/CustomViewsDroidCon,2015-12-08T12:47:07Z,0,0,Java,True,True,
+naman14,naman14/dhis2-android-dashboard,2016-03-31T05:53:19Z,1,1,Java,True,True,Other
+naman14,naman14/dom-2d-camera,2022-06-20T13:16:01Z,0,0,JavaScript,True,False,Other
+naman14,naman14/ETHDenver-2023,2023-03-21T18:13:13Z,0,0,,True,True,Creative Commons Zero v1.0 Universal
+naman14,naman14/ethglobal-ny,2022-06-25T15:06:58Z,1,1,TypeScript,True,True,Creative Commons Zero v1.0 Universal
+naman14,naman14/ethglobal-ny-web,2022-06-26T12:06:15Z,0,0,HTML,True,True,
+naman14,naman14/ethglobal-sf,2022-11-05T08:54:49Z,0,0,JavaScript,True,True,
+naman14,naman14/FaisalCrush,2015-10-21T17:21:51Z,11,11,Java,True,True,
+naman14,naman14/fcl-android,2023-07-13T17:01:07Z,1,1,Kotlin,True,True,MIT License
+naman14,naman14/FieldMapView,2015-04-26T07:11:53Z,82,82,Java,True,True,
+aviaryan,aviaryan/2016.opentechsummit.net,2016-07-14T19:22:43Z,0,0,CSS,True,False,
+aviaryan,aviaryan/aavi.me,2020-03-05T11:56:23Z,3,3,,True,True,
+aviaryan,aviaryan/abc,2020-05-16T09:51:25Z,1,1,,True,True,Apache License 2.0
+aviaryan,aviaryan/Ahk-Best-Practices,2016-02-17T06:19:22Z,32,32,,True,True,
+aviaryan,aviaryan/Ahk-CI-Example,2016-04-19T19:54:31Z,13,13,AutoHotkey,True,True,
+aviaryan,aviaryan/alfred-clc,2017-08-31T14:11:31Z,16,16,Shell,True,True,MIT License
+aviaryan,aviaryan/alfred-google-search,2017-09-07T05:39:12Z,30,30,Python,True,True,MIT License
+aviaryan,aviaryan/alfred-last2imgur,2017-06-24T14:27:00Z,14,14,Shell,True,True,MIT License
+aviaryan,aviaryan/algorithms-course,2016-01-18T04:19:17Z,4,4,C++,True,True,MIT License
+aviaryan,aviaryan/AutoHotkey,2013-04-09T12:03:46Z,30,30,JavaScript,True,True,
+aviaryan,aviaryan/autohotkey-scripts,2013-04-27T15:42:10Z,123,123,AutoHotkey,True,True,
+aviaryan,aviaryan/aviaryan.github.com-retired-2018,2014-08-04T08:07:21Z,9,9,HTML,True,True,Apache License 2.0
+aviaryan,aviaryan/awesome,2017-01-30T06:14:02Z,7,7,,True,True,
+aviaryan,aviaryan/awesome-awesomeness,2016-12-08T03:28:07Z,0,0,Ruby,True,False,
+aviaryan,aviaryan/awesome-hacking,2016-12-26T10:26:58Z,2,2,,True,True,MIT License
+aviaryan,aviaryan/awesome-no-login-web-apps,2016-12-06T10:54:01Z,2621,2621,Shell,True,True,
+aviaryan,aviaryan/awesome-speakers,2018-12-14T12:37:18Z,1,1,,True,True,
+aviaryan,aviaryan/BigEval.js,2015-06-26T17:29:59Z,57,57,JavaScript,True,True,Apache License 2.0
+aviaryan,aviaryan/bitmex-position-size-calculator,2019-08-19T18:55:49Z,1,1,JavaScript,True,True,
+aviaryan,aviaryan/bootstrap-chm,2015-07-21T16:09:51Z,11,11,Python,True,True,Apache License 2.0
+aviaryan,aviaryan/BrainGames,2015-12-10T09:10:42Z,46,46,Python,True,True,
+aviaryan,aviaryan/buildspace-projects,2021-12-07T11:18:17Z,1,1,,True,True,
+aviaryan,aviaryan/cc-licenses-parser-scancode,2017-04-04T19:13:50Z,0,0,Python,True,True,MIT License
+aviaryan,aviaryan/CFBuddy,2017-01-24T14:37:51Z,2,2,Java,True,True,
+aviaryan,aviaryan/chattt,2018-02-08T05:13:49Z,252,252,JavaScript,True,True,MIT License
+aviaryan,aviaryan/chattt-backend,2018-02-08T08:01:03Z,19,19,JavaScript,True,True,MIT License
+aviaryan,aviaryan/classifier,2017-07-15T15:52:35Z,0,0,Python,True,True,
+aviaryan,aviaryan/Clipjump,2013-04-06T15:14:16Z,384,384,AutoHotkey,True,True,
+aviaryan,aviaryan/clipjump-addons,2014-08-29T15:35:06Z,8,8,AutoHotkey,True,True,
+aviaryan,aviaryan/CloseFolder,2015-11-05T13:22:36Z,9,9,Python,True,True,MIT License
+the-dagger,the-dagger/-deprecated-the-dagger.github.io,2015-09-27T05:35:48Z,4,4,CSS,True,True,MIT License
+the-dagger,the-dagger/AlgorithmsCoursera,2016-12-24T16:40:05Z,0,0,Java,True,True,
+the-dagger,the-dagger/Android,2017-06-24T13:35:08Z,0,0,Java,True,True,Apache License 2.0
+the-dagger,the-dagger/android-showcase-template,2019-02-04T08:09:51Z,0,0,Java,True,True,Apache License 2.0
+the-dagger,the-dagger/AppGeneratorServer,2016-12-30T21:06:02Z,0,0,Python,True,True,
+the-dagger,the-dagger/App_Portifolio,2015-11-19T16:38:09Z,0,0,Java,True,True,
+the-dagger,the-dagger/Arduino-Projects,2015-10-08T13:48:56Z,0,0,Arduino,True,True,
+the-dagger,the-dagger/beam,2019-02-10T22:02:02Z,0,0,Java,True,False,Apache License 2.0
+the-dagger,the-dagger/CB-SampleApp,2017-02-03T20:09:46Z,0,0,Java,True,True,
+the-dagger,the-dagger/cloud_app_dev,2015-02-08T07:11:29Z,0,0,,True,True,
+the-dagger,the-dagger/coding-blocks.github.io,2017-11-25T11:33:05Z,0,0,HTML,True,True,
+the-dagger,the-dagger/codingblocks.online,2017-11-25T11:36:22Z,0,0,JavaScript,True,True,
+the-dagger,the-dagger/CrapCons,2016-03-03T13:58:09Z,4,4,Java,True,True,
+the-dagger,the-dagger/CrapCons-IconPack,2015-10-13T11:22:46Z,0,0,Java,True,True,
+the-dagger,the-dagger/Crapcons-landing-page,2015-03-01T12:46:49Z,0,0,HTML,True,True,
+the-dagger,the-dagger/CrapPapers,2015-03-26T08:30:03Z,0,0,,True,True,
+the-dagger,the-dagger/cw-advandroid,2016-07-24T18:18:09Z,0,0,Java,True,False,Other
+the-dagger,the-dagger/dataflow-dynamic-schema,2018-10-12T19:02:57Z,5,5,Java,True,True,Apache License 2.0
+the-dagger,the-dagger/Dice,2016-06-25T08:55:43Z,1,1,,True,True,
+the-dagger,the-dagger/DictionaryProviderExample,2016-03-05T07:40:22Z,1,1,Java,True,True,
+the-dagger,the-dagger/DigitalOceanApp,2017-05-31T20:48:46Z,0,0,Java,True,True,GNU General Public License v3.0
+the-dagger,the-dagger/DS_progs,2015-02-17T17:17:00Z,1,1,C++,True,True,
+the-dagger,the-dagger/DwarkaAndroid2017Summer,2017-07-09T10:10:18Z,1,1,Java,True,True,
+the-dagger,the-dagger/EvalAI,2017-08-01T15:43:52Z,0,0,Python,True,True,Other
+the-dagger,the-dagger/FeedReader,2016-09-11T08:39:33Z,1,1,Java,True,True,
+the-dagger,the-dagger/ffmpegcodecs,2015-08-29T09:24:36Z,0,0,,True,True,
+the-dagger,the-dagger/FirebaseUI-Android,2017-07-20T10:54:00Z,0,0,Java,True,True,Apache License 2.0
+the-dagger,the-dagger/FireChat,2016-12-03T07:07:21Z,1,1,Java,True,True,Apache License 2.0
+the-dagger,the-dagger/flutter,2018-03-01T20:24:58Z,0,0,Dart,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+the-dagger,the-dagger/getting-a-gig,2016-06-24T16:40:29Z,0,0,,True,True,
+Priyansh19077,Priyansh19077/Android-Reference-Own-Code,2020-11-20T11:31:38Z,1,1,Java,True,True,
+Priyansh19077,Priyansh19077/Atcoder-DP-Contest,2020-11-15T18:35:18Z,8,8,C++,True,True,
+Priyansh19077,Priyansh19077/Brain-Trainer,2020-11-20T09:43:26Z,0,0,Java,True,True,
+Priyansh19077,Priyansh19077/Codeforces-Visualizer-App,2021-03-11T10:08:24Z,22,22,Kotlin,True,True,
+Priyansh19077,Priyansh19077/ColorSwtichClone,2020-10-21T13:26:29Z,7,7,Java,True,True,
+Priyansh19077,Priyansh19077/CP-Templates,2020-06-19T13:48:14Z,887,887,C++,True,True,
+Priyansh19077,Priyansh19077/CSES-Problem-Set,2021-01-09T11:49:23Z,12,12,C++,True,True,
+Priyansh19077,Priyansh19077/Dynamic-Programming-CSES,2023-11-10T09:10:11Z,35,35,C++,True,True,
+Priyansh19077,Priyansh19077/HashCode-21-Practice-Round,2021-02-21T20:39:38Z,2,2,C++,True,True,
+Priyansh19077,Priyansh19077/Linux-Terminal-Clone,2020-09-27T14:57:45Z,7,7,C,True,True,
+Priyansh19077,Priyansh19077/Mafia-Game-Command-Line,2020-10-03T19:43:23Z,0,0,Java,True,True,
+Priyansh19077,Priyansh19077/Memorable-Places,2020-11-20T09:54:54Z,3,3,Java,True,True,
+Priyansh19077,Priyansh19077/News-Reader,2020-11-20T10:49:25Z,0,0,Java,True,True,
+Priyansh19077,Priyansh19077/Notes-2.0,2020-11-26T07:55:23Z,1,1,Kotlin,True,True,
+Priyansh19077,Priyansh19077/Notes-App,2020-11-20T11:26:43Z,1,1,Java,True,True,
+Priyansh19077,Priyansh19077/OnlyPolling,2020-09-13T14:41:43Z,0,0,Java,True,True,
+Priyansh19077,Priyansh19077/Priyansh19077,2022-11-07T18:04:02Z,1,1,,True,True,
+Priyansh19077,Priyansh19077/rdflib,2022-05-13T13:40:56Z,0,0,Python,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+Priyansh19077,Priyansh19077/TIC-TAC-TOE,2020-11-20T08:01:00Z,1,1,Java,True,True,
+Priyansh19077,Priyansh19077/TLE,2021-06-08T10:41:43Z,4,4,,True,True,MIT License
+Priyansh19077,Priyansh19077/Where-Am-I,2020-11-20T09:20:48Z,1,1,Java,True,True,
+Priyansh19077,Priyansh19077/YouTube-links,2021-04-22T07:26:53Z,38,38,C++,True,True,
+mehulmpt,mehulmpt/100-days-of-javascript-codedamn,2022-12-22T10:10:13Z,2,2,,True,True,
+mehulmpt,mehulmpt/2018,2018-03-26T20:41:56Z,0,0,,True,True,
+mehulmpt,mehulmpt/2019,2019-03-26T12:34:09Z,0,0,,True,True,
+mehulmpt,mehulmpt/adwy,2018-05-29T11:16:21Z,0,0,HTML,True,True,
+mehulmpt,mehulmpt/android-news-reader,2016-06-23T19:52:53Z,2,2,Java,True,True,
+mehulmpt,mehulmpt/angular-php-uploadcare,2017-07-05T14:48:24Z,8,8,TypeScript,True,True,
+mehulmpt,mehulmpt/angular-tutorials,2017-06-13T21:18:28Z,6,6,TypeScript,True,True,
+mehulmpt,mehulmpt/angular2-boilerplate,2016-03-10T06:58:26Z,0,0,HTML,True,True,
+mehulmpt,mehulmpt/angular4-login,2017-07-13T20:13:33Z,9,9,TypeScript,True,True,
+mehulmpt,mehulmpt/angular6-youtube,2018-02-12T13:59:09Z,58,58,TypeScript,True,True,
+mehulmpt,mehulmpt/angularjs-mysql,2017-06-11T12:38:52Z,12,12,JavaScript,True,True,
+mehulmpt,mehulmpt/apisauce,2019-01-02T12:33:40Z,0,0,JavaScript,True,True,MIT License
+mehulmpt,mehulmpt/awesome-monaco-editor,2020-04-05T12:11:49Z,0,0,,True,True,MIT License
+mehulmpt,mehulmpt/awesome-nextjs,2021-01-03T22:54:47Z,4,4,,True,True,
+mehulmpt,mehulmpt/awesome-tech-blogs,2022-09-26T15:28:38Z,0,0,,True,True,
+mehulmpt,mehulmpt/blog,2021-05-22T14:29:51Z,1,1,TypeScript,True,True,
+mehulmpt,mehulmpt/bpgc-auto-lan,2017-08-12T05:57:10Z,0,0,JavaScript,True,True,
+mehulmpt,mehulmpt/building-interactive-coding-course-test-lab,2023-02-11T14:41:04Z,0,0,HTML,True,True,
+mehulmpt,mehulmpt/bun,2023-02-26T14:28:34Z,0,0,Zig,True,False,
+mehulmpt,mehulmpt/campus-evangelists,2022-07-12T17:15:13Z,0,0,,True,True,
+mehulmpt,mehulmpt/chrome-extension-tutorials,2017-06-18T21:26:47Z,2,2,HTML,True,True,
+mehulmpt,mehulmpt/cli,2020-09-21T22:31:32Z,0,0,,True,False,MIT License
+mehulmpt,mehulmpt/codedamn-assignment,2021-06-04T23:42:49Z,0,0,,True,True,
+mehulmpt,mehulmpt/codedamn-chatbot,2017-12-17T12:04:18Z,0,0,JavaScript,True,True,
+mehulmpt,mehulmpt/codedamn-live-project,2020-09-05T18:29:40Z,11,11,TypeScript,True,True,
+mehulmpt,mehulmpt/codespace-demo,2020-08-28T20:43:07Z,0,0,,True,True,
+mehulmpt,mehulmpt/content,2022-02-02T01:51:22Z,0,0,,True,False,Other
+mehulmpt,mehulmpt/create-chrome-x,2020-05-31T20:34:05Z,0,0,JavaScript,True,True,
+mehulmpt,mehulmpt/create-react-app,2019-02-11T11:16:03Z,0,0,JavaScript,True,False,MIT License
+mehulmpt,mehulmpt/cs19-orientation-bits,2019-09-12T16:52:12Z,0,0,JavaScript,True,True,
+kunaltyagi9,kunaltyagi9/admin-dashboard,2020-05-05T16:16:42Z,7,7,TypeScript,True,True,
+kunaltyagi9,kunaltyagi9/AirlineManagementSystem,2019-10-06T11:16:18Z,35,35,Java,True,True,
+kunaltyagi9,kunaltyagi9/ATM-Simulator-System,2019-09-26T17:16:07Z,104,104,Java,True,True,
+kunaltyagi9,kunaltyagi9/Automated-Data-Frame-Filter-and-Query-Generator,2019-04-10T04:11:07Z,5,5,Java,True,True,
+kunaltyagi9,kunaltyagi9/aws-serverless,2023-01-05T20:58:54Z,2,2,JavaScript,True,True,
+kunaltyagi9,kunaltyagi9/Cab-Booking-System,2020-10-01T17:39:03Z,5,5,Java,True,True,
+kunaltyagi9,kunaltyagi9/chatting-application,2020-05-13T10:15:23Z,71,71,Java,True,True,
+kunaltyagi9,kunaltyagi9/Chisel-and-Hammer-Website,2019-11-26T13:44:21Z,2,2,HTML,True,True,
+kunaltyagi9,kunaltyagi9/Electricity-Billing-System,2019-10-06T11:05:50Z,51,51,Java,True,True,
+kunaltyagi9,kunaltyagi9/Employee-Management-System,2019-10-06T11:13:28Z,64,64,Java,True,True,
+kunaltyagi9,kunaltyagi9/Hotel-Management-System,2020-04-17T12:23:03Z,40,40,Java,True,True,
+kunaltyagi9,kunaltyagi9/javascript-web-development,2020-05-26T05:55:19Z,13,13,JavaScript,True,True,
+kunaltyagi9,kunaltyagi9/kunaltyagi9,2021-01-18T14:40:29Z,20,20,,True,True,
+kunaltyagi9,kunaltyagi9/Library-Management-System,2019-10-10T14:51:51Z,27,27,Java,True,True,
+kunaltyagi9,kunaltyagi9/MERN-Stack-Projects,2021-05-11T16:34:09Z,594,594,JavaScript,True,True,
+kunaltyagi9,kunaltyagi9/Nextjs-Projects,2022-04-27T14:54:19Z,10,10,TypeScript,True,True,
+kunaltyagi9,kunaltyagi9/Notepad,2020-12-14T14:56:50Z,8,8,Java,True,True,
+kunaltyagi9,kunaltyagi9/Payroll-System,2019-10-06T11:20:58Z,13,13,Java,True,True,
+kunaltyagi9,kunaltyagi9/Quiz-Application-Using-Java,2021-04-10T17:34:59Z,29,29,Java,True,True,
+kunaltyagi9,kunaltyagi9/React-Projects,2021-01-20T06:47:17Z,104,104,JavaScript,True,True,
+kunaltyagi9,kunaltyagi9/React-Projects-with-Typescript,2023-02-01T08:58:29Z,6,6,TypeScript,True,True,
+kunaltyagi9,kunaltyagi9/Snake-Game,2020-05-24T09:48:46Z,14,14,Java,True,True,
+kunaltyagi9,kunaltyagi9/Spring-Boot-Projects,2022-06-11T10:32:05Z,10,10,JavaScript,True,True,
+kunaltyagi9,kunaltyagi9/Spring-Boot-with-Angular,2020-01-15T13:54:19Z,17,17,TypeScript,True,True,
+kunaltyagi9,kunaltyagi9/Travel-and-Toursim-Management-System,2020-09-28T17:07:46Z,40,40,Java,True,True,
+kunaltyagi9,kunaltyagi9/University-Management-System,2019-10-31T08:22:52Z,54,54,Java,True,True,
+kunaltyagi9,kunaltyagi9/Web-Browser,2020-11-28T07:08:27Z,6,6,Java,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/2020.fossasia.org,2019-05-02T19:14:58Z,0,0,HTML,True,False,
+ShreyaPrasad1209,ShreyaPrasad1209/8cc,2020-03-17T09:24:10Z,0,0,,True,True,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/accessibility-snippets,2021-07-16T03:42:32Z,1,1,,True,True,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/advanced-css-course,2019-04-06T06:49:44Z,0,0,CSS,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/Algo,2019-01-19T10:00:23Z,0,0,C++,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/all-contributors,2021-10-04T12:45:04Z,0,0,,True,False,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/Amazon-Interview-Questions,2020-05-09T04:30:40Z,10,10,C++,True,True,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/amazon-rekognition-video-analyzer,2021-11-13T05:13:52Z,0,0,,True,False,Other
+ShreyaPrasad1209,ShreyaPrasad1209/amplication,2022-05-17T09:05:43Z,0,0,TypeScript,True,True,Apache License 2.0
+ShreyaPrasad1209,ShreyaPrasad1209/angular,2021-04-07T18:45:06Z,0,0,TypeScript,True,False,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/anitab-org.github.io,2021-10-17T16:51:30Z,1,1,,True,True,GNU General Public License v3.0
+ShreyaPrasad1209,ShreyaPrasad1209/api,2022-07-09T12:45:45Z,0,0,,True,False,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/appwrite,2022-07-10T03:04:55Z,0,0,,True,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+ShreyaPrasad1209,ShreyaPrasad1209/assignment-submit-portal,2019-06-25T17:36:28Z,0,0,,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/Auto-DL,2022-01-25T11:19:43Z,0,0,JavaScript,True,False,GNU General Public License v3.0
+ShreyaPrasad1209,ShreyaPrasad1209/Avataran-2.0,2019-02-07T19:45:40Z,0,0,CSS,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/awesome-competitive-programming,2020-05-19T14:37:32Z,3,3,,True,True,Creative Commons Attribution 4.0 International
+ShreyaPrasad1209,ShreyaPrasad1209/awesome-interview-questions,2019-11-15T18:31:26Z,2,2,,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/Basic-Android-Apps,2020-12-16T06:37:28Z,0,0,Java,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/Bauddhik-Geeks.github.io,2021-10-16T06:58:07Z,1,1,HTML,True,True,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/benefit-client,2019-04-05T07:43:33Z,0,0,CSS,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/BenefitIOSApplication,2019-04-05T07:43:56Z,0,0,Swift,True,True,Apache License 2.0
+ShreyaPrasad1209,ShreyaPrasad1209/Blog,2021-04-03T12:19:39Z,0,0,SCSS,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/bloom,2023-09-30T17:18:51Z,0,0,TypeScript,True,True,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/Bloomberg-London-Interview-Questions,2021-01-31T09:41:58Z,6,6,C++,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/C-Plus-Plus,2020-05-11T17:53:48Z,0,0,,True,True,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/cb-github,2019-01-19T10:21:14Z,0,0,HTML,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/cetb-hack,2020-10-03T14:26:14Z,0,0,,True,True,
+ShreyaPrasad1209,ShreyaPrasad1209/CircuitVerse,2021-06-19T07:45:03Z,1,1,JavaScript,True,True,MIT License
+ShreyaPrasad1209,ShreyaPrasad1209/CircuitVerseDocs,2021-04-06T16:05:15Z,0,0,,True,True,
+nathvarun,nathvarun/angular.js,2014-02-26T09:56:15Z,0,0,JavaScript,True,True,MIT License
+nathvarun,nathvarun/Apple-Music-UI-Pan-Animation-Tutorial,2018-03-31T06:25:48Z,77,77,JavaScript,True,True,MIT License
+nathvarun,nathvarun/awesome-ios,2016-11-19T19:10:23Z,0,0,Swift,True,False,MIT License
+nathvarun,nathvarun/colour-schemes,2013-05-08T16:44:29Z,0,0,VimL,True,True,Other
+nathvarun,nathvarun/Custom-React-Native-Snippets-Unsure-Programmer,2018-04-22T10:11:03Z,170,170,,True,True,
+nathvarun,nathvarun/Declarative-Animations-Practice,2020-05-05T07:55:11Z,1,1,,True,True,
+nathvarun,nathvarun/deep-linking-with-expo-series,2021-03-30T00:47:29Z,10,10,JavaScript,True,True,
+nathvarun,nathvarun/docs,2013-06-01T17:25:18Z,1,1,,True,True,
+nathvarun,nathvarun/Everything-Expo,2019-02-13T10:15:49Z,43,43,JavaScript,True,True,
+nathvarun,nathvarun/examples,2018-03-25T09:34:45Z,0,0,,True,True,
+nathvarun,nathvarun/expo,2020-11-29T05:30:09Z,0,0,,True,True,MIT License
+nathvarun,nathvarun/expo-docs,2017-09-15T18:31:40Z,0,0,JavaScript,True,True,
+nathvarun,nathvarun/Expo-Google-Login-Firebase,2019-01-18T18:30:49Z,45,45,JavaScript,True,True,
+nathvarun,nathvarun/Expo-Stripe-,2021-06-15T07:22:21Z,0,0,,True,True,
+nathvarun,nathvarun/Expo-Stripe-Tutorial,2021-06-15T07:30:49Z,23,23,JavaScript,True,True,
+nathvarun,nathvarun/Find-Beer-App-React-Native-,2018-01-14T14:53:07Z,5,5,JavaScript,True,True,
+nathvarun,nathvarun/firebase-react-native-sample,2017-04-19T14:27:45Z,1,1,JavaScript,True,True,
+nathvarun,nathvarun/FlashCard-App-Firebase-Swift-part-2-3,2017-04-26T06:16:02Z,1,1,Swift,True,True,
+nathvarun,nathvarun/FlashCard-App-Part-7-Swift-Firebase-Tutorial,2017-05-09T06:04:22Z,3,3,Swift,True,True,
+nathvarun,nathvarun/flutter-uber,2022-02-15T07:15:41Z,20,20,Dart,True,True,
+nathvarun,nathvarun/ForceCORS,2013-09-13T10:14:35Z,0,0,JavaScript,True,True,
+nathvarun,nathvarun/hekla,2019-06-04T07:35:33Z,0,0,TypeScript,True,True,MIT License
+nathvarun,nathvarun/impress.js,2013-06-04T12:01:30Z,0,0,JavaScript,True,True,
+nathvarun,nathvarun/Jcrop,2014-01-02T16:29:39Z,0,0,CSS,True,True,Other
+nathvarun,nathvarun/jQuery-File-Upload,2013-05-27T12:58:49Z,0,0,JavaScript,True,True,
+nathvarun,nathvarun/jQuery-Mobile-Icon-Pack,2013-10-03T15:00:03Z,0,0,CSS,True,True,GNU General Public License v2.0
+nathvarun,nathvarun/jquery-mobile-iscrollview,2014-02-23T06:01:47Z,0,0,JavaScript,True,False,
+nathvarun,nathvarun/jquery.taboverride,2013-05-25T10:08:47Z,0,0,JavaScript,True,False,
+nathvarun,nathvarun/Laravel-4-Generators,2013-05-30T16:55:29Z,0,0,PHP,True,True,
+nathvarun,nathvarun/Laravel-Generator,2013-05-13T11:14:54Z,0,0,PHP,True,True,
+Swati4star,Swati4star/Alexa-Atlas-Skill,2017-01-26T10:17:11Z,23,23,Java,True,True,
+Swati4star,Swati4star/Applied-CS-with-Android,2017-01-19T16:35:22Z,13,13,Java,True,True,
+Swati4star,Swati4star/awesome-for-beginners,2020-03-08T17:36:56Z,0,0,,True,False,
+Swati4star,Swati4star/awesome-ios,2020-10-01T15:43:01Z,0,0,Swift,True,False,MIT License
+Swati4star,Swati4star/awesome-no-login-web-apps,2019-10-11T08:16:33Z,5,5,,True,True,
+Swati4star,Swati4star/awesome-web-scraper,2019-10-10T09:31:06Z,1,1,,True,True,MIT License
+Swati4star,Swati4star/awesome_bot,2019-10-07T17:48:45Z,0,0,,True,False,MIT License
+Swati4star,Swati4star/brackets,2017-10-08T11:18:21Z,0,0,JavaScript,True,True,MIT License
+Swati4star,Swati4star/Calculator-React,2016-11-13T10:40:27Z,17,17,JavaScript,True,True,
+Swati4star,Swati4star/Easy-Ocr-Scanner-Android,2017-04-07T05:03:54Z,5,5,C,True,True,
+Swati4star,Swati4star/Events-Guide,2015-08-23T13:53:06Z,14,14,Java,True,True,
+Swati4star,Swati4star/fissure-android,2016-09-12T05:45:59Z,4,4,Java,True,True,GNU General Public License v3.0
+Swati4star,Swati4star/git-extra-commands,2019-10-11T08:13:45Z,1,1,,True,True,Apache License 2.0
+Swati4star,Swati4star/Images-to-PDF,2016-02-22T10:00:46Z,1196,1196,Java,True,True,GNU General Public License v3.0
+Swati4star,Swati4star/MedicoCare,2015-07-07T11:14:33Z,20,20,Java,True,True,
+Swati4star,Swati4star/Mobile-store-estimotifier,2015-12-12T17:28:09Z,25,25,Java,True,True,GNU General Public License v3.0
+Swati4star,Swati4star/open-event,2016-11-08T04:12:04Z,0,0,,True,False,GNU General Public License v3.0
+Swati4star,Swati4star/open-event-android,2016-11-08T03:58:33Z,0,0,Java,True,False,GNU General Public License v3.0
+Swati4star,Swati4star/open-source-android-apps,2020-10-01T04:41:37Z,6,6,,True,True,MIT License
+Swati4star,Swati4star/open-source-ios-apps,2019-10-10T15:41:36Z,1,1,,True,True,MIT License
+Swati4star,Swati4star/opsdroid,2019-10-02T13:13:36Z,0,0,,True,False,Apache License 2.0
+Swati4star,Swati4star/personal-sites,2016-11-12T13:48:38Z,5,5,Python,True,True,
+Swati4star,Swati4star/powerup-android,2017-03-17T11:35:22Z,1,1,Java,True,True,
+Swati4star,Swati4star/react-native-ios-on-linux,2016-12-16T07:10:57Z,1,1,Objective-C,True,True,
+Swati4star,Swati4star/susi_android,2016-11-09T04:55:52Z,0,0,Java,True,False,Apache License 2.0
+Swati4star,Swati4star/Swati4star.github.io,2016-07-31T07:03:43Z,2,2,CSS,True,True,Other
+Swati4star,Swati4star/TIE-Travel-Guide,2015-10-16T14:10:59Z,11,11,HTML,True,True,
+Swati4star,Swati4star/todoman,2017-02-21T15:32:14Z,0,0,Python,True,False,ISC License
+Swati4star,Swati4star/travelify,2016-10-18T17:22:26Z,13,13,Java,True,True,
+Swati4star,Swati4star/UnitConverterUltimate,2016-11-01T17:48:52Z,4,4,Java,True,True,Apache License 2.0
+saumya1singh,saumya1singh/100-Days-of-Code-,2020-02-28T14:19:34Z,2,2,,True,True,
+saumya1singh,saumya1singh/30DaysOfAppDev-Course,2023-02-01T19:32:52Z,37,37,Kotlin,True,True,
+saumya1singh,saumya1singh/AarogyaSetu_Android,2020-05-27T12:21:51Z,0,0,,True,True,Other
+saumya1singh,saumya1singh/aboutplanet,2019-03-18T16:31:10Z,0,0,Java,True,True,
+saumya1singh,saumya1singh/accordian-demo,2021-03-01T02:06:36Z,0,0,HTML,True,True,
+saumya1singh,saumya1singh/ADmobs,2019-06-05T16:50:37Z,0,0,Kotlin,True,True,
+saumya1singh,saumya1singh/Advance-UI,2023-01-20T10:44:42Z,2,2,Kotlin,True,True,
+saumya1singh,saumya1singh/AlertTypes,2019-03-12T10:00:21Z,1,1,Kotlin,True,True,
+saumya1singh,saumya1singh/Algo-Tree,2021-03-10T11:33:16Z,0,0,,True,True,MIT License
+saumya1singh,saumya1singh/and-nd-firebase,2019-07-07T07:46:41Z,1,1,Java,True,True,Apache License 2.0
+saumya1singh,saumya1singh/android,2019-07-04T13:15:22Z,0,0,Java,True,False,GNU General Public License v2.0
+saumya1singh,saumya1singh/Android-Codelabs,2019-05-31T15:13:38Z,0,0,Java,True,True,
+saumya1singh,saumya1singh/android-EmojiCompat,2019-06-03T05:41:21Z,2,2,Java,True,True,Apache License 2.0
+saumya1singh,saumya1singh/android-examples,2020-01-06T15:43:11Z,1,1,,True,True,Apache License 2.0
+saumya1singh,saumya1singh/android-file-chooser,2019-11-03T12:55:09Z,2,2,,True,True,Apache License 2.0
+saumya1singh,saumya1singh/android-kotlin-fundamentals-apps,2019-06-02T15:57:34Z,0,0,Kotlin,True,True,Other
+saumya1singh,saumya1singh/android-kotlin-fundamentals-starter-apps,2020-01-13T12:09:23Z,3,3,,True,True,Other
+saumya1singh,saumya1singh/android-NotificationChannels,2019-06-03T05:45:36Z,0,0,Java,True,True,Apache License 2.0
+saumya1singh,saumya1singh/Android-ui-templates,2019-12-13T07:01:35Z,0,0,,True,True,Apache License 2.0
+saumya1singh,saumya1singh/AndroidPlayListDemo,2023-01-10T09:42:48Z,0,0,Kotlin,True,True,
+saumya1singh,saumya1singh/android_guides,2020-01-06T14:02:33Z,3,3,,True,True,MIT License
+saumya1singh,saumya1singh/Anki-Android,2022-01-10T13:22:03Z,1,1,,True,True,GNU General Public License v3.0
+saumya1singh,saumya1singh/apps-android-commons,2019-09-14T14:58:40Z,1,1,,True,True,Apache License 2.0
+saumya1singh,saumya1singh/awesome-computer-science-opportunities,2020-03-19T09:45:49Z,1,1,,True,True,MIT License
+saumya1singh,saumya1singh/awesome-flutter,2020-05-04T01:27:39Z,1,1,,True,False,
+saumya1singh,saumya1singh/BackendDictionary,2024-02-17T09:33:35Z,3,3,Kotlin,True,True,
+saumya1singh,saumya1singh/bacon,2021-02-15T08:22:33Z,0,0,Java,True,True,Apache License 2.0
+saumya1singh,saumya1singh/barview-android,2020-03-07T16:20:57Z,0,0,Java,True,True,
+saumya1singh,saumya1singh/blocks-of-android,2019-05-24T08:28:15Z,0,0,CSS,True,True,
+saumya1singh,saumya1singh/bookdash-android-app,2019-09-21T13:21:28Z,0,0,,True,True,
+nikhilkumarsingh,nikhilkumarsingh/aiml_bot,2017-09-09T16:08:46Z,2,2,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/AllAboutGit,2017-01-04T19:04:43Z,1,1,,True,True,
+nikhilkumarsingh,nikhilkumarsingh/AnaliseExploratoria,2017-10-02T17:44:11Z,0,0,Jupyter Notebook,True,True,
+nikhilkumarsingh,nikhilkumarsingh/async-http-requests-tut,2020-05-17T21:08:46Z,47,47,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/Automation-Bots,2017-10-03T05:39:44Z,1,1,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/awesome-asyncio,2018-11-12T14:16:20Z,1,1,,True,True,Other
+nikhilkumarsingh,nikhilkumarsingh/Awesome-Python-Scripts,2018-10-02T19:49:24Z,8,8,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/awesome-wikidata-scripts,2020-10-17T09:14:32Z,7,7,Jupyter Notebook,True,True,MIT License
+nikhilkumarsingh,nikhilkumarsingh/Basics-of-Python,2017-06-12T05:01:20Z,14,14,Jupyter Notebook,True,True,
+nikhilkumarsingh,nikhilkumarsingh/blog.codingblocks.com,2017-11-10T13:32:14Z,0,0,JavaScript,True,True,MIT License
+nikhilkumarsingh,nikhilkumarsingh/bshare,2018-01-21T06:42:33Z,2,2,Python,True,True,MIT License
+nikhilkumarsingh,nikhilkumarsingh/career_compass,2016-12-22T17:35:05Z,1,1,HTML,True,True,
+nikhilkumarsingh,nikhilkumarsingh/choropleth-python-tutorial,2020-07-19T12:32:40Z,40,40,Jupyter Notebook,True,True,
+nikhilkumarsingh,nikhilkumarsingh/clix,2017-06-01T19:13:49Z,17,17,Python,True,True,MIT License
+nikhilkumarsingh,nikhilkumarsingh/cmail,2018-01-24T16:10:38Z,3,3,Python,True,True,MIT License
+nikhilkumarsingh,nikhilkumarsingh/code-editor,2016-08-17T18:15:43Z,1,1,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/concurrent-programming-in-python,2018-11-02T06:52:07Z,12,12,Jupyter Notebook,True,True,
+nikhilkumarsingh,nikhilkumarsingh/content-downloader,2017-05-21T09:16:03Z,102,102,Python,True,True,MIT License
+nikhilkumarsingh,nikhilkumarsingh/dataclasses-tut-reference-material,2019-03-03T18:07:42Z,7,7,Jupyter Notebook,True,True,
+nikhilkumarsingh,nikhilkumarsingh/Desktop-Notifier-Example,2017-04-01T16:52:22Z,25,25,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/desktop_reminder,2017-04-09T13:33:26Z,8,8,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/discovering-hidden-apis,2019-03-08T08:50:17Z,10,10,Jupyter Notebook,True,True,
+nikhilkumarsingh,nikhilkumarsingh/facebook-messenger-bot,2017-04-17T10:23:31Z,16,16,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/FacebookGraphAPI-Examples,2016-09-12T08:12:17Z,38,38,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/flask-chat-app,2019-11-23T22:47:14Z,55,55,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/flask-lambda,2020-01-12T12:16:15Z,0,0,Python,True,True,Apache License 2.0
+nikhilkumarsingh,nikhilkumarsingh/geeksforgeeks,2016-12-14T13:46:40Z,39,39,Python,True,True,
+nikhilkumarsingh,nikhilkumarsingh/Glitch-Scripts,2019-11-16T14:58:35Z,1,1,Shell,True,True,GNU General Public License v3.0
+nikhilkumarsingh,nikhilkumarsingh/glitch-test,2019-11-16T18:08:21Z,2,2,Shell,True,True,
+nikhilkumarsingh,nikhilkumarsingh/globTut,2019-06-27T18:50:28Z,3,3,Jupyter Notebook,True,True,
+SnippetCoders,SnippetCoders/angular-excel-export,2020-06-26T15:07:14Z,5,5,TypeScript,True,True,
+SnippetCoders,SnippetCoders/flutter-tree-plugin,2022-09-27T20:35:16Z,0,0,Dart,True,True,MIT License
+SnippetCoders,SnippetCoders/flutter_admob,2021-03-04T23:45:35Z,14,14,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_bluetooth_printer,2021-09-09T18:44:23Z,23,23,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_cache_manager,2021-06-25T09:17:34Z,1,1,,True,True,MIT License
+SnippetCoders,SnippetCoders/flutter_dashboard_http_get_request,2020-08-09T13:18:00Z,10,10,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_debounce_search,2021-07-20T10:31:05Z,5,5,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_dynamic_form_fields,2021-09-13T19:31:56Z,10,10,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_file_downloading,2020-05-11T18:25:40Z,3,3,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_http_post_request,2020-08-03T07:29:52Z,43,43,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_http_request,2020-05-31T19:43:05Z,8,8,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_image_loader,2020-05-31T15:24:11Z,2,2,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_internet_connectivity_check,2021-04-01T06:47:02Z,12,12,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_internet_streaming_radio,2020-07-26T03:21:12Z,22,22,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_listview_infinite_scrolling,2020-07-28T05:40:09Z,20,20,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_live_location_gmap,2021-03-20T11:16:26Z,11,11,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_localization,2020-05-07T16:49:13Z,5,5,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_login_register_nodejs,2021-12-01T17:53:07Z,29,29,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_multilanguage_getx,2021-03-09T22:11:59Z,4,4,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_multiselect,2021-05-21T21:40:45Z,2,2,,True,True,Other
+SnippetCoders,SnippetCoders/flutter_nodejs_crud,2021-12-25T10:55:06Z,30,30,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_nodejs_jwt_login_register,2021-10-10T00:04:10Z,14,14,JavaScript,True,True,
+SnippetCoders,SnippetCoders/flutter_nodejs_otp,2021-10-29T18:15:34Z,13,13,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_splash_screen,2020-06-09T22:35:50Z,7,7,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_sqlite,2020-08-23T09:44:57Z,7,7,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_wordpress_image_upload,2021-02-07T00:09:15Z,6,6,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_wordpress_push_notification,2021-02-25T21:50:44Z,8,8,Dart,True,True,
+SnippetCoders,SnippetCoders/flutter_wordpress_register,2021-05-27T18:13:00Z,5,5,Dart,True,True,
+SnippetCoders,SnippetCoders/SnippetCoders,2020-07-23T15:20:42Z,11,11,Dart,True,True,
+AakashKumarNain,AakashKumarNain/AakashKumarNain,2023-05-24T17:06:31Z,1,1,,True,True,
+AakashKumarNain,AakashKumarNain/aakashkumarnain.github.io,2022-10-16T10:19:20Z,2,2,,True,True,
+AakashKumarNain,AakashKumarNain/addons,2019-12-13T09:55:45Z,0,0,Python,True,True,Apache License 2.0
+AakashKumarNain,AakashKumarNain/Agent-E,2024-04-05T07:42:44Z,2,2,,True,False,MIT License
+AakashKumarNain,AakashKumarNain/AllStateEDA,2016-11-01T17:15:55Z,0,0,Jupyter Notebook,True,True,
+AakashKumarNain,AakashKumarNain/annotated_research_papers,2020-07-19T19:05:19Z,2679,2679,,True,True,MIT License
+AakashKumarNain,AakashKumarNain/Applied-Deep-Learning-with-Keras,2017-11-28T09:57:17Z,1,1,Jupyter Notebook,True,True,
+AakashKumarNain,AakashKumarNain/augmix,2019-12-25T16:13:25Z,0,0,,True,True,Apache License 2.0
+AakashKumarNain,AakashKumarNain/AugMix_TF2,2019-12-25T16:17:12Z,79,79,Python,True,True,MIT License
+AakashKumarNain,AakashKumarNain/awesome-python,2016-09-22T18:35:07Z,1,1,Python,True,False,Other
+AakashKumarNain,AakashKumarNain/benchmark_torch_jax,2024-10-17T08:51:46Z,1,1,Python,True,True,Apache License 2.0
+AakashKumarNain,AakashKumarNain/building_models_in_JAX,2022-01-05T16:36:39Z,3,3,Jupyter Notebook,True,True,MIT License
+AakashKumarNain,AakashKumarNain/CaptchaCracker,2020-06-14T12:14:20Z,17,17,,True,True,
+AakashKumarNain,AakashKumarNain/CatDCGAN,2018-12-01T16:57:46Z,0,0,Jupyter Notebook,True,True,
+AakashKumarNain,AakashKumarNain/Chatapp-using-node.js,2016-01-03T16:32:05Z,0,0,JavaScript,True,True,
+AakashKumarNain,AakashKumarNain/CLR,2017-09-25T08:06:16Z,0,0,Jupyter Notebook,True,True,MIT License
+AakashKumarNain,AakashKumarNain/courses,2017-11-23T18:41:35Z,2,2,Jupyter Notebook,True,True,Apache License 2.0
+AakashKumarNain,AakashKumarNain/CycleGAN_TF2,2020-08-15T13:56:58Z,4,4,,True,True,MIT License
+AakashKumarNain,AakashKumarNain/ddpms,2022-11-30T17:42:51Z,0,0,,True,True,Apache License 2.0
+AakashKumarNain,AakashKumarNain/deep-learning-with-python-notebooks,2017-09-06T05:27:41Z,1,1,Jupyter Notebook,True,True,MIT License
+AakashKumarNain,AakashKumarNain/DeepLearning,2016-07-24T12:55:51Z,1,1,Jupyter Notebook,True,True,
+AakashKumarNain,AakashKumarNain/DeeplearningAI,2018-07-30T16:16:04Z,6,6,Jupyter Notebook,True,True,
+AakashKumarNain,AakashKumarNain/DeepRecommender,2017-09-09T17:39:12Z,0,0,Python,True,False,MIT License
+AakashKumarNain,AakashKumarNain/diffusion_models,2022-06-15T15:47:26Z,151,151,HTML,True,True,MIT License
+AakashKumarNain,AakashKumarNain/docs,2019-01-11T05:39:44Z,1,1,Jupyter Notebook,True,True,Apache License 2.0
+AakashKumarNain,AakashKumarNain/end-to-end-machine-learning-with-google-cloud,2019-02-24T14:56:55Z,2,2,Python,True,True,
+AakashKumarNain,AakashKumarNain/equinox,2024-03-10T16:55:23Z,0,0,Python,True,True,Apache License 2.0
+AakashKumarNain,AakashKumarNain/Feline-reticulocytes,2018-04-29T17:39:47Z,0,0,Jupyter Notebook,True,True,
+AakashKumarNain,AakashKumarNain/gpt2_jax,2024-07-27T16:15:25Z,0,0,Python,True,True,MIT License
+AakashKumarNain,AakashKumarNain/imagenet18,2018-09-21T15:41:46Z,0,0,Python,True,True,
+PrathamKumar14,PrathamKumar14/algorithms,2019-10-09T06:47:13Z,2,2,,True,True,
+PrathamKumar14,PrathamKumar14/Art_Book,2020-06-29T13:37:36Z,5,5,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/Authentication-Secrets,2020-01-21T05:16:44Z,4,4,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/Button-effect,2020-05-07T10:43:48Z,2,2,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/ChatGPT-Prompts,2023-01-13T14:43:50Z,370,370,,True,True,
+PrathamKumar14,PrathamKumar14/Chaty,2020-07-30T11:16:21Z,14,14,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/contact-form,2020-11-18T16:03:16Z,3,3,HTML,True,True,
+PrathamKumar14,PrathamKumar14/COVID-19-tracker,2020-04-15T19:11:49Z,7,7,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/crypto-fiat,2020-02-23T05:12:34Z,0,0,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/CSS-Layout-Notes,2021-03-15T16:10:59Z,484,484,,True,True,
+PrathamKumar14,PrathamKumar14/CSS-only-Portfolio,2020-10-01T07:54:20Z,1,1,HTML,True,True,
+PrathamKumar14,PrathamKumar14/CSS-Portfolio,2020-06-03T10:32:54Z,7,7,HTML,True,True,
+PrathamKumar14,PrathamKumar14/Data-Structures-Algorithms-Hacktoberfest-2K19,2019-10-07T08:30:48Z,1,1,,True,True,MIT License
+PrathamKumar14,PrathamKumar14/demos,2021-08-31T20:55:57Z,2,2,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/DevRel-Stack-Data,2022-04-21T10:18:16Z,0,0,,True,False,
+PrathamKumar14,PrathamKumar14/Dice-Game,2020-01-09T14:02:55Z,1,1,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/direflow,2020-10-01T05:53:58Z,1,1,TypeScript,True,True,MIT License
+PrathamKumar14,PrathamKumar14/Drum-Kit,2020-01-09T04:09:36Z,2,2,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/Dynamic-landing-page,2020-04-14T17:29:23Z,2,2,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/eduease,2020-12-19T21:04:26Z,3,3,HTML,True,True,
+PrathamKumar14,PrathamKumar14/Express-React,2020-04-09T07:40:06Z,2,2,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/Face-Recognition-Based-Attendance-System,2019-10-01T13:59:34Z,1,1,Python,True,True,
+PrathamKumar14,PrathamKumar14/FaceLock,2020-10-01T16:31:16Z,1,1,Python,True,True,
+PrathamKumar14,PrathamKumar14/featured-tweets,2022-04-09T17:24:37Z,5,5,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/firstrepo,2019-10-03T06:02:28Z,1,1,Java,True,True,
+PrathamKumar14,PrathamKumar14/Forgot-password,2020-04-05T17:56:20Z,3,3,HTML,True,True,
+PrathamKumar14,PrathamKumar14/github-id-card,2020-07-11T11:53:30Z,3,3,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/Hooks-In-Depth,2020-04-23T10:53:06Z,14,14,JavaScript,True,True,
+PrathamKumar14,PrathamKumar14/html-css-practice,2020-10-06T05:15:38Z,0,0,CSS,True,True,
+PrathamKumar14,PrathamKumar14/image-to-portrait,2021-04-11T16:21:12Z,5,5,HTML,True,True,
+coderdost,coderdost/angular-crash-course,2021-07-22T15:31:36Z,1,1,TypeScript,True,True,
+coderdost,coderdost/BootStrap-Ecommerce,2021-01-12T12:39:34Z,5,5,HTML,True,True,
+coderdost,coderdost/coderdost.github.io,2023-04-23T10:36:48Z,1,1,HTML,True,True,
+coderdost,coderdost/connect-react-with-node-mongo,2023-01-04T18:16:47Z,8,8,HTML,True,True,
+coderdost,coderdost/full-stack-dev-2023,2023-01-19T21:33:12Z,627,627,,True,True,
+coderdost,coderdost/git-example,2021-05-29T14:00:17Z,0,0,HTML,True,True,
+coderdost,coderdost/HTML-CSS-Template-Design,2021-01-02T07:28:45Z,0,0,HTML,True,True,
+coderdost,coderdost/JavaScript-Course-2023,2023-03-19T20:12:29Z,172,172,,True,False,
+coderdost,coderdost/MERN-ecommerce,2022-04-25T10:58:33Z,5,5,JavaScript,True,True,
+coderdost,coderdost/MERN-ecommerce-backend,2023-06-03T19:47:15Z,123,123,JavaScript,True,False,
+coderdost,coderdost/MERN-ecommerce-Frontend,2023-06-03T19:46:06Z,145,145,JavaScript,True,False,
+coderdost,coderdost/node-express-mongoose-rest-API,2022-09-18T18:53:05Z,1,1,JavaScript,True,True,
+coderdost,coderdost/nodejs-file-upload,2022-09-11T18:50:42Z,0,0,HTML,True,True,
+coderdost,coderdost/react-fireabse-chatroom,2021-09-08T09:30:01Z,0,0,JavaScript,True,True,
+coderdost,coderdost/react-game-of-flags,2021-09-07T12:06:29Z,1,1,JavaScript,True,True,
+coderdost,coderdost/react-hooks,2021-05-14T10:07:30Z,2,2,JavaScript,True,True,
+coderdost,coderdost/react-misc-examples,2021-05-17T10:14:07Z,0,0,HTML,True,True,
+coderdost,coderdost/react-router-crash-course,2021-09-06T11:41:27Z,2,2,JavaScript,True,True,
+coderdost,coderdost/react-tic-tac-toe,2021-09-04T09:37:22Z,2,2,JavaScript,True,True,
+coderdost,coderdost/react-todo,2021-05-09T04:57:18Z,1,1,JavaScript,True,True,
+coderdost,coderdost/react-translate-app,2021-09-07T05:55:45Z,5,5,JavaScript,True,True,
+coderdost,coderdost/react-with-typescript,2022-09-14T18:32:32Z,2,2,TypeScript,True,True,
+coderdost,coderdost/typescript-crash-course,2021-07-27T11:51:43Z,2,2,TypeScript,True,True,
+coderdost,coderdost/Web-Animations-with-AnimateCSS,2022-08-26T09:51:40Z,0,0,HTML,True,True,
+manrajgrover,manrajgrover/30s_challenge,2015-10-26T12:52:10Z,0,0,JavaScript,True,True,MIT License
+manrajgrover,manrajgrover/acl-2020-virtual-conference,2020-07-05T12:21:05Z,0,0,,True,True,MIT License
+manrajgrover,manrajgrover/algorithms,2016-10-31T07:58:00Z,1,1,Python,True,True,GNU General Public License v3.0
+manrajgrover,manrajgrover/algorithms-js,2017-03-13T15:35:17Z,199,199,JavaScript,True,True,MIT License
+manrajgrover,manrajgrover/algorithms-js-docs,2016-03-28T21:19:48Z,0,0,JavaScript,True,True,Other
+manrajgrover,manrajgrover/angelhack,2015-06-20T11:34:26Z,0,0,JavaScript,True,True,
+manrajgrover,manrajgrover/api-blueprint,2016-10-19T07:26:57Z,0,0,,True,True,MIT License
+manrajgrover,manrajgrover/awesome,2016-10-17T16:56:37Z,0,0,,True,True,
+manrajgrover,manrajgrover/awesome-algorithms,2018-06-02T17:57:34Z,1,1,,True,True,
+manrajgrover,manrajgrover/awesome-cli-apps,2016-09-02T07:32:57Z,2,2,,True,True,
+manrajgrover,manrajgrover/awesome-courses,2015-06-07T09:53:20Z,1,1,,True,True,
+manrajgrover,manrajgrover/awesome-css,2016-08-29T08:23:36Z,1,1,,True,True,
+manrajgrover,manrajgrover/awesome-data-labeling,2020-11-17T06:21:07Z,1,1,,True,True,
+manrajgrover,manrajgrover/awesome-deep-learning,2015-11-29T16:35:38Z,0,0,,True,True,
+manrajgrover,manrajgrover/Awesome-Distributed-Deep-Learning,2020-01-15T09:30:37Z,0,0,,True,True,
+manrajgrover,manrajgrover/awesome-hyperterm,2016-07-16T23:31:49Z,0,0,,True,True,Creative Commons Zero v1.0 Universal
+manrajgrover,manrajgrover/awesome-nodejs,2016-08-31T12:00:07Z,1,1,,True,False,
+manrajgrover,manrajgrover/awesome-oss-mentors,2018-01-15T12:00:35Z,0,0,,True,True,MIT License
+manrajgrover,manrajgrover/awesome-python,2017-11-04T14:09:32Z,1,1,Python,True,False,Other
+manrajgrover,manrajgrover/BasicCRUD,2016-10-12T12:18:40Z,1,1,PHP,True,True,
+manrajgrover,manrajgrover/BasicCSSFramework,2016-11-04T13:18:27Z,0,0,CSS,True,True,MIT License
+manrajgrover,manrajgrover/BasicMVC,2016-10-06T14:48:20Z,0,0,PHP,True,True,
+manrajgrover,manrajgrover/BasicORM,2016-10-08T13:37:06Z,0,0,PHP,True,True,
+manrajgrover,manrajgrover/BasicRestAPI,2016-10-10T12:49:04Z,0,0,PHP,True,True,
+manrajgrover,manrajgrover/battery_status,2015-10-02T07:51:55Z,1,1,Python,True,True,MIT License
+manrajgrover,manrajgrover/BeginR,2018-01-08T14:34:20Z,1,1,HTML,True,True,
+manrajgrover,manrajgrover/BigInteger,2014-10-11T19:37:41Z,0,0,,True,True,
+manrajgrover,manrajgrover/bleach,2016-09-02T14:33:59Z,0,0,Python,True,False,Other
+manrajgrover,manrajgrover/blog,2018-08-03T20:14:35Z,2,2,JavaScript,True,True,MIT License
+manrajgrover,manrajgrover/bugsahoy,2014-08-20T10:09:24Z,0,0,,True,True,
+rishikksh20,rishikksh20/-Quora-Question-Pairs-,2017-05-10T18:21:28Z,0,0,Jupyter Notebook,True,True,
+rishikksh20,rishikksh20/3D-ResNets-PyTorch,2021-06-26T10:50:17Z,1,1,,True,True,MIT License
+rishikksh20,rishikksh20/AcademiCodec,2023-05-06T08:14:01Z,0,0,,True,True,
+rishikksh20,rishikksh20/AdaSpeech,2021-03-02T06:41:53Z,156,156,Jupyter Notebook,True,True,Apache License 2.0
+rishikksh20,rishikksh20/AdaSpeech2,2021-04-21T15:27:20Z,69,69,Jupyter Notebook,True,True,MIT License
+rishikksh20,rishikksh20/ahmetfurkaann,2022-08-25T10:58:36Z,0,0,,True,True,
+rishikksh20,rishikksh20/ai-audio-startups,2022-06-14T16:39:44Z,3,3,,True,True,Apache License 2.0
+rishikksh20,rishikksh20/AudioMAE-pytorch,2022-08-05T11:45:56Z,63,63,Python,True,True,MIT License
+rishikksh20,rishikksh20/AutoEncoders,2016-12-01T21:22:58Z,0,0,Jupyter Notebook,True,True,
+rishikksh20,rishikksh20/Avito-Duplicate-ads,2016-07-01T19:11:28Z,1,1,Jupyter Notebook,True,True,
+rishikksh20,rishikksh20/Avocodo-pytorch,2022-06-28T02:59:19Z,115,115,Python,True,True,MIT License
+rishikksh20,rishikksh20/Bidirectional-LEM-pytorch,2022-08-08T08:50:23Z,9,9,Python,True,True,MIT License
+rishikksh20,rishikksh20/blog,2016-12-18T10:10:36Z,0,0,CSS,True,True,MIT License
+rishikksh20,rishikksh20/Calculator,2015-10-13T22:56:56Z,0,0,Java,True,True,
+rishikksh20,rishikksh20/CeiT-pytorch,2021-03-25T13:08:53Z,100,100,Python,True,True,MIT License
+rishikksh20,rishikksh20/CNN-Visualization,2017-06-16T14:16:01Z,2,2,Jupyter Notebook,True,True,
+rishikksh20,rishikksh20/CoaT-pytorch,2021-04-14T14:08:01Z,16,16,Python,True,True,
+rishikksh20,rishikksh20/compact-convolution-transformer,2021-04-14T14:13:02Z,9,9,Python,True,True,MIT License
+rishikksh20,rishikksh20/convolution-vision-transformers,2021-03-30T17:50:28Z,222,222,Python,True,True,MIT License
+rishikksh20,rishikksh20/CrossViT-pytorch,2021-03-30T02:12:18Z,189,189,Python,True,True,MIT License
+rishikksh20,rishikksh20/Data-Analysis,2016-03-05T17:39:47Z,1,1,Jupyter Notebook,True,True,
+rishikksh20,rishikksh20/Data-Mining-Algos,2016-01-19T18:08:34Z,1,1,Python,True,True,
+rishikksh20,rishikksh20/demucs,2019-12-12T07:00:52Z,2,2,,True,False,Other
+rishikksh20,rishikksh20/Document-Classifier,2017-09-20T17:11:21Z,1,1,Jupyter Notebook,True,True,
+rishikksh20,rishikksh20/doc_update,2017-09-24T09:51:22Z,0,0,Python,True,True,
+rishikksh20,rishikksh20/Email-Classification-Statement-Contract,2017-09-17T11:18:25Z,1,1,Python,True,True,
+rishikksh20,rishikksh20/FastSpeech2,2019-11-16T07:22:42Z,223,223,Jupyter Notebook,True,True,Apache License 2.0
+rishikksh20,rishikksh20/fastspeech2_samples,2020-06-18T20:00:19Z,2,2,,True,True,
+rishikksh20,rishikksh20/FNet-pytorch,2021-05-11T18:53:06Z,251,251,Python,True,True,MIT License
+rishikksh20,rishikksh20/Fre-GAN-pytorch,2021-06-16T02:22:46Z,101,101,Python,True,True,MIT License
+aayusharora,aayusharora/2016.fossasia.org,2016-03-12T17:00:06Z,0,0,CSS,True,True,
+aayusharora,aayusharora/2018.fossasia.org,2018-03-21T06:13:25Z,0,0,HTML,True,True,
+aayusharora,aayusharora/aayusharora.github.io,2016-08-21T21:59:29Z,0,0,JavaScript,True,True,
+aayusharora,aayusharora/Aftershoot,2019-11-22T19:42:17Z,9,9,Java,True,True,
+aayusharora,aayusharora/angular,2017-11-03T18:59:47Z,0,0,TypeScript,True,False,MIT License
+aayusharora,aayusharora/Angular-Animations,2018-07-02T15:51:58Z,0,0,,True,True,
+aayusharora,aayusharora/angular-carousel,2018-05-31T16:34:30Z,0,0,TypeScript,True,True,
+aayusharora,aayusharora/angular-codelab-1,2018-06-11T06:53:21Z,1,1,HTML,True,True,
+aayusharora,aayusharora/angular-element-codelab,2018-06-06T10:12:08Z,13,13,TypeScript,True,True,
+aayusharora,aayusharora/angular-fundamentals-seed,2018-07-06T17:10:31Z,0,0,JavaScript,True,True,
+aayusharora,aayusharora/angular-presentation,2018-06-04T08:37:59Z,0,0,JavaScript,True,True,Apache License 2.0
+aayusharora,aayusharora/angular-quiz-app,2016-10-01T15:55:39Z,0,0,JavaScript,True,True,
+aayusharora,aayusharora/Angular-Routing,2018-05-18T23:10:08Z,0,0,TypeScript,True,True,
+aayusharora,aayusharora/Angular-Routing-Part-2,2018-06-04T20:06:12Z,1,1,TypeScript,True,True,
+aayusharora,aayusharora/angularjs-style-guide,2016-04-02T19:51:46Z,0,0,,True,True,MIT License
+aayusharora,aayusharora/angular_app,2015-09-27T15:30:51Z,1,1,CSS,True,True,
+aayusharora,aayusharora/API.AI,2017-08-28T12:23:03Z,1,1,JavaScript,True,True,
+aayusharora,aayusharora/Avatar.lab,2018-09-04T21:08:13Z,0,0,JavaScript,True,True,MIT License
+aayusharora,aayusharora/awesome-analytics,2020-02-04T20:52:49Z,0,0,,True,True,MIT License
+aayusharora,aayusharora/awesome-machine-learning,2016-11-03T19:23:27Z,0,0,Python,True,True,
+aayusharora,aayusharora/beam,2018-08-13T15:30:29Z,0,0,Java,True,False,Apache License 2.0
+aayusharora,aayusharora/Bird-Card,2016-10-04T14:45:01Z,0,0,HTML,True,True,
+aayusharora,aayusharora/bitballoon-js,2017-07-09T19:47:24Z,0,0,JavaScript,True,True,
+aayusharora,aayusharora/blog.codingblocks.com,2017-06-13T12:11:40Z,0,0,JavaScript,True,True,MIT License
+aayusharora,aayusharora/bricklayer,2019-11-09T19:41:56Z,0,0,,True,True,Other
+aayusharora,aayusharora/Building-AngularJS-and-Node.js-Apps-with-the-MEAN-Stack,2016-08-27T21:08:55Z,0,0,JavaScript,True,True,
+aayusharora,aayusharora/cb-github,2019-01-19T09:44:40Z,0,0,,True,True,
+aayusharora,aayusharora/cloud-dataflow-nyc-taxi-tycoon,2018-08-09T17:54:01Z,0,0,Java,True,True,Apache License 2.0
+aayusharora,aayusharora/clumsy-bird,2018-08-24T18:05:13Z,0,0,JavaScript,True,True,GNU General Public License v3.0
+aayusharora,aayusharora/coding-blocks.github.io,2017-08-11T15:09:12Z,0,0,HTML,True,True,
+AkshayAnand2002,AkshayAnand2002/AGE-CALCULATOR-PHP,2022-12-14T09:36:06Z,0,0,PHP,True,True,
+AkshayAnand2002,AkshayAnand2002/AIRBNB-DATA-ANALYSIS,2023-02-01T19:35:33Z,2,2,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/AkshayAnand2002,2022-03-29T15:48:26Z,2,2,,True,False,
+AkshayAnand2002,AkshayAnand2002/AKshay_JS_Practise,2024-05-21T18:01:32Z,0,0,JavaScript,True,True,
+AkshayAnand2002,AkshayAnand2002/Akshay_P1,2023-07-30T00:54:49Z,0,0,HTML,True,True,
+AkshayAnand2002,AkshayAnand2002/Akshay_VidTube,2023-07-24T16:31:53Z,0,0,HTML,True,True,
+AkshayAnand2002,AkshayAnand2002/Analysis-Of-Some-Common-Datasets-In-R-and-Python,2022-04-10T10:20:52Z,0,0,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/ASSEMBLY-LANGUAGE,2022-09-04T08:42:59Z,0,0,,True,True,
+AkshayAnand2002,AkshayAnand2002/BANK-CHURN-PREDICTION-LOGISTIC-REGRESSION,2022-12-18T16:26:35Z,0,0,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/BASIC-CALCULATOR-BY-HTML-AND-CSS,2022-03-29T08:40:51Z,1,1,HTML,True,True,
+AkshayAnand2002,AkshayAnand2002/BINARY-IMAGE-CLASSIFICATION-BY-ANN,2023-01-02T02:21:48Z,0,0,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/BINARY-IMAGE-CLASSIFICATION-WITH-CNN,2023-01-02T16:42:26Z,0,0,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/BTP-Intermediate-Files,2024-09-22T17:43:17Z,0,0,Jupyter Notebook,True,False,
+AkshayAnand2002,AkshayAnand2002/C,2022-05-07T03:38:13Z,1,1,C,True,True,Other
+AkshayAnand2002,AkshayAnand2002/CANCER-CLASSIFICATION-BY-NEURAL-NETWORK,2023-01-19T18:23:55Z,1,1,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/CANCER-DETECTION-WITH-CNN,2023-01-06T06:13:33Z,0,0,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/CAR-DATA-SKLEARN-PYTORCH-LINEAR-REGRESSION,2024-03-10T05:19:11Z,1,1,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/CAR-PRICE-PREDICTION-BY-LINEAR-AND-LASSO-REGRESSION,2022-12-28T17:44:06Z,0,0,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/CARS-DATASET-EDA,2023-01-20T02:13:10Z,1,1,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/CLBLSQL,2024-05-31T06:20:28Z,0,0,TSQL,True,True,
+AkshayAnand2002,AkshayAnand2002/CODEBASICS-py-REPO,2024-08-25T16:06:45Z,0,0,,True,True,
+AkshayAnand2002,AkshayAnand2002/CODING_BLOCKS,2023-04-19T00:22:39Z,1,1,C++,True,True,
+AkshayAnand2002,AkshayAnand2002/COVID-19-SMALL-DATA-ANALYSIS-WITH-PYTHON,2022-04-09T11:28:54Z,0,0,HTML,True,True,
+AkshayAnand2002,AkshayAnand2002/CREDIT-CARD-FRAUD-DETECTION-BY-CNN,2023-01-06T03:25:51Z,0,0,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/DASHBOARD-USING-MS-EXCEL,2022-08-24T05:23:40Z,0,0,,True,True,
+AkshayAnand2002,AkshayAnand2002/DATA-CLEANING-AND-PREPARATION-BY-PYTHON-PANDAS,2022-12-14T06:02:05Z,0,0,Jupyter Notebook,True,True,
+AkshayAnand2002,AkshayAnand2002/DATA-CLEANING-BY-MS-EXCEL,2022-08-24T03:21:37Z,3,3,,True,True,
+AkshayAnand2002,AkshayAnand2002/DATA-ENTRY,2022-05-22T13:39:36Z,1,1,,True,True,
+AkshayAnand2002,AkshayAnand2002/DATA-STRUCTURES-AND-ALGORITHMS,2022-05-10T18:28:02Z,1,1,C,True,True,
+AkshayAnand2002,AkshayAnand2002/DATA-VISUALIZATION-BY-SEABORN-AND-MATPLOTLIB,2022-12-14T08:03:06Z,0,0,Jupyter Notebook,True,True,
+KeenWarrior,KeenWarrior/AdMob,2017-10-02T08:40:13Z,0,0,Java,True,True,
+KeenWarrior,KeenWarrior/advanced_web,2024-02-17T04:53:03Z,0,0,CSS,True,True,
+KeenWarrior,KeenWarrior/Android-Study-Jams,2022-08-31T10:20:58Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/anotherdemo,2021-08-01T13:21:56Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/anujgarg.in,2017-11-27T06:24:27Z,0,0,HTML,True,True,
+KeenWarrior,KeenWarrior/api.codeforcause.org,2020-06-04T09:34:56Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/bill-android,2018-05-23T05:22:50Z,0,0,Java,True,True,
+KeenWarrior,KeenWarrior/bill-server,2018-05-23T05:21:01Z,0,0,Java,True,True,
+KeenWarrior,KeenWarrior/bits-workshop,2018-04-11T13:15:21Z,0,0,HTML,True,True,
+KeenWarrior,KeenWarrior/blog-autodeploy,2017-12-06T17:40:43Z,0,0,HTML,True,True,
+KeenWarrior,KeenWarrior/blog.jboss-outreach.org,2018-01-06T08:34:36Z,0,0,JavaScript,True,True,MIT License
+KeenWarrior,KeenWarrior/blog.keenwarrior.com,2018-01-05T09:42:01Z,0,0,CSS,True,True,
+KeenWarrior,KeenWarrior/boss,2018-07-11T10:23:43Z,0,0,CSS,True,True,
+KeenWarrior,KeenWarrior/cb-java,2018-02-24T13:09:24Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/cb-workshop,2017-12-23T09:49:07Z,0,0,C,True,True,
+KeenWarrior,KeenWarrior/Certificate-generator-react,2021-04-14T14:31:11Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/certifier,2017-10-25T10:13:31Z,0,0,Java,True,True,
+KeenWarrior,KeenWarrior/cfc-assignments-pyboot,2021-07-28T13:31:06Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/chatappmern0621,2021-08-18T16:44:24Z,0,0,JavaScript,True,True,
+KeenWarrior,KeenWarrior/chatbot,2017-12-14T17:34:26Z,0,0,Java,True,True,
+KeenWarrior,KeenWarrior/codeforcause-desktop,2021-02-24T16:33:39Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/codeforcause.org,2020-06-04T09:35:41Z,0,0,JavaScript,True,True,
+KeenWarrior,KeenWarrior/codingblocks.com,2018-01-29T08:07:05Z,0,0,HTML,True,True,
+KeenWarrior,KeenWarrior/codingjuniororg,2020-08-22T22:14:08Z,0,0,JavaScript,True,True,MIT License
+KeenWarrior,KeenWarrior/colab-practice,2018-07-04T06:35:43Z,0,0,,True,True,Apache License 2.0
+KeenWarrior,KeenWarrior/Compose-Camps-2022,2022-08-31T10:23:05Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/contributors,2019-03-31T06:05:45Z,0,0,CSS,True,True,GNU General Public License v3.0
+KeenWarrior,KeenWarrior/dashboard.codeforcause.org,2020-06-04T09:34:12Z,0,0,,True,True,
+KeenWarrior,KeenWarrior/data-x-plaksha,2019-10-29T15:43:56Z,0,0,,True,True,Apache License 2.0
+KeenWarrior,KeenWarrior/demo,2021-11-27T06:08:10Z,0,0,,True,True,
+ayooshkathuria,ayooshkathuria/ayoo.sh,2021-03-06T18:18:16Z,0,0,HTML,True,False,Other
+ayooshkathuria,ayooshkathuria/ayooshkathuria.github.io,2018-02-26T19:26:34Z,1,1,CSS,True,True,MIT License
+ayooshkathuria,ayooshkathuria/breast-tumour-maligancy-classification,2018-02-24T23:28:27Z,14,14,Python,True,True,MIT License
+ayooshkathuria,ayooshkathuria/DataAugmentationForObjectDetection,2020-03-23T18:00:22Z,2,2,Jupyter Notebook,True,False,MIT License
+ayooshkathuria,ayooshkathuria/faster-rcnn.pytorch,2018-02-02T08:50:36Z,3,3,Python,True,True,MIT License
+ayooshkathuria,ayooshkathuria/Grocery_weak_supervision,2018-06-09T08:18:20Z,2,2,Python,True,True,
+ayooshkathuria,ayooshkathuria/jsrmacparts,2020-09-20T01:17:04Z,0,0,SCSS,True,True,MIT License
+ayooshkathuria,ayooshkathuria/Kaggle-Titanic-Challenge,2016-11-11T18:19:48Z,4,4,Python,True,True,
+ayooshkathuria,ayooshkathuria/MNIST-handwritten-digit-recognition,2016-11-11T21:44:28Z,7,7,Python,True,True,
+ayooshkathuria,ayooshkathuria/neural-networks-and-deep-learning,2016-10-26T12:16:29Z,0,0,Python,True,True,
+ayooshkathuria,ayooshkathuria/PyTorch-YOLO-v2,2018-03-04T19:16:11Z,16,16,Python,True,True,
+ayooshkathuria,ayooshkathuria/pytorch-yolo-v3,2018-04-06T21:55:48Z,3301,3301,Python,True,True,
+ayooshkathuria,ayooshkathuria/pytorch-yolo2,2018-02-12T05:08:06Z,8,8,Python,True,True,MIT License
+ayooshkathuria,ayooshkathuria/shitpy,2017-10-22T03:58:53Z,1,1,Python,True,True,GNU General Public License v3.0
+ayooshkathuria,ayooshkathuria/tensorboard-pytorch-examples,2018-02-02T04:36:18Z,4,4,Python,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+ayooshkathuria,ayooshkathuria/Testing-assumptions-of-Linear-Regression,2016-10-16T14:26:44Z,1,1,Jupyter Notebook,True,True,
+ayooshkathuria,ayooshkathuria/theano-tutorial,2016-10-21T17:01:06Z,1,1,Jupyter Notebook,True,True,
+ayooshkathuria,ayooshkathuria/tnt,2017-10-22T06:55:10Z,0,0,Python,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+ayooshkathuria,ayooshkathuria/yolo-v2-pytorch,2018-02-26T11:30:41Z,0,0,,True,True,
+ayooshkathuria,ayooshkathuria/YOLO_v3_tutorial_from_scratch,2018-04-10T22:35:38Z,2319,2319,Python,True,True,
