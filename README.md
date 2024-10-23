@@ -1,6 +1,6 @@
 **GitHub API Scraper - Delhi Users (100+ Followers)**
 
-1) The **scraping process** uses GitHub's REST API to find Delhi-based users with over 100 followers, Python for scripting, JSON parsing to extract data, and rate limit handling to comply with GitHub’s API policies.
+1) The **scraping process** uses GitHub's REST API to find Delhi-based users with over 100 followers, Python for scripting and creating two csv files to save users and their repositories information which were saved and shared in github repository for the project.
    
 2) **Interesting Finding** is that many developers in Delhi have private repositories or few followers, despite valuable contributions, highlighting that follower count or visible repositories don’t always reflect a developer's expertise or impact, as some choose to work privately or contribute in less visible ways.
    
