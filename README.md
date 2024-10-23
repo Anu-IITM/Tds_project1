@@ -1,4 +1,4 @@
-GitHub Users Scraper - Delhi (100+ Followers)
+**GitHub Users Scraper - Delhi (100+ Followers)**
 
 This project scrapes GitHub users from Delhi with more than 100 followers and retrieves details about their public repositories.
 
