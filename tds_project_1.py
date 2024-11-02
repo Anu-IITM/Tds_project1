@@ -14,7 +14,7 @@ pip install requests
 import requests
 
 # Your GitHub token
-token = 'ghp_wEqsurkYo0dvaYaqGF1y5140NRYVip48pZXq'
+token = 'ghp_wEqsurkYo0dvaYaqGF1y5140NRYVip48'
 
 # Set up headers with the token
 headers = {
@@ -30,7 +30,7 @@ print(response.json())
 import requests
 
 # Define the token and headers
-github_token = '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'
+github_token = 'ghp_wEqsurkYo0dvaYaqGFIy5l40NRYVip48'
 headers = {'Authorization': f'token {github_token}'}
 
 # Make the API request
@@ -46,7 +46,7 @@ user = "username"  # Replace 'username' with the actual GitHub username
 url = f"https://api.github.com/users/{user}/repos"
 
 # Your GitHub token
-token = "ghp_wEqsurkYo0dvaYaqGFIy5140NRYVip48pZXq"  # Replace with your actual token
+token = "ghp_wEqsurkYo0dvaYaqGFIy5140NRYVip48"  # Replace with your actual token
 
 # Define the headers with your authorization token
 headers = {
@@ -73,18 +73,18 @@ if response.status_code == 200:
 else:
     print(f"Request failed with status code {response.status_code}")
 
-!curl -H "Authorization: token ghp_wEqsurkYo0dvaYaqGFIy5140NRYVip48pZXq" https://api.github.com/users/Anu-IITM/repos
+!curl -H "Authorization: token ghp_wEqsurkYo0dvaYaqGFIy5140Nip48pZ" https://api.github.com/users/Anu-IITM/repos
 
-!curl -H "Authorization: token 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" https://api.github.com/users/username/repos
+!curl -H "Authorization: token ghp_wEqsurkYo0dvaYaqGFIy5l40NRYVip4" https://api.github.com/users/username/repos
 
-!curl -H "Authorization: token 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" https://api.github.com/rate_limit
+!curl -H "Authorization: token ghp_wEqsurkYo0dvaYaqGFIy5l40NRYVip" https://api.github.com/rate_limit
 
 import requests
 import pandas as pd
 
 # GitHub API setup
 GITHUB_API_URL = "https://api.github.com"
-HEADERS = {"Authorization": "token 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"}  # Add your GitHub token here
+HEADERS = {"Authorization": "token ghp_wEqsurkYo0dvaYaqGFIy5l40NRYVi"}  # Add your GitHub token here
 
 def fetch_users_in_delhi(min_followers=100):
     users_url = f"{GITHUB_API_URL}/search/users?q=location:delhi+followers:>{min_followers}"
@@ -176,7 +176,7 @@ import base64
 import requests
 
 # GitHub credentials
-TOKEN = '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'  # Replace with your GitHub personal access token
+TOKEN = 'ghp_wEqsurkYo0dvaYaqGFIy5l40NRYVip'  # Replace with your GitHub personal access token
 REPO = 'your_username/your_repository'  # Replace with your GitHub repository (username/repo)
 FILE_PATH = 'README.md'  # Path of the file in the repository
 
